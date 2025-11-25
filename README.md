@@ -1,89 +1,93 @@
-🎙️ Cross-Lingual Speech Emotion Recognition (SER) Using Wav2Vec2
+🎙️ Cross-Lingual Speech Emotion Recognition (SER) System
 🚀 Overview
 
-This project is an AI-powered emotion recognition system that analyzes human speech and predicts emotional states such as Angry, Happy, Neutral, and Sad.
-It is built using state-of-the-art Transformer-based models (Wav2Vec2) and supports cross-lingual emotion recognition across English (RAVDESS) and German (Emo-DB) speech.
+This project is an AI-powered Speech Emotion Recognition (SER) system capable of identifying human emotions such as Angry, Happy, Neutral, and Sad from raw audio.
+It supports cross-lingual emotion classification using two benchmark datasets:
 
-The system includes a complete pipeline:
-📥 Data preprocessing → 🧠 Model training → 🎧 Real-time inference → 🌐 Deployment.
+RAVDESS (English)
 
-It is designed for applications such as call centers, healthcare monitoring, virtual assistants, mental health analysis, and emotionally aware AI systems.
+Emo-DB (German)
+
+The project includes a full pipeline from preprocessing → training → evaluation → real-time inference UI (Gradio).
+
+Designed for emotion-aware AI, call centers, healthcare monitoring, virtual assistants, and mental health analysis.
 
 🎯 Features
 
-✅ Cross-Lingual Emotion Recognition – Works across English + German datasets
+✅ Cross-Lingual Emotion Recognition – Works on English + German
 🎤 Raw Audio Input – No MFCCs required
-🧠 Transformer-based Model – Uses Wav2Vec2 (Facebook AI)
-⚡ High Accuracy – ~90% accuracy on combined test set
-📈 Balanced Label Mapping – Unified emotion labels across datasets
-🔊 Real-Time Emotion Detection App – Built using Gradio
-📂 Metadata & Processed Audio Generation
-🛠 Robust Preprocessing Pipeline – Resampling, trimming, normalization
+🧠 Transformer-Based Model – Wav2Vec2 (Facebook AI)
+⚡ High Accuracy (~90%) – On combined test set
+📚 Automatic Metadata Generation
+🧹 Advanced Preprocessing – Resampling, trimming, normalization
+📊 Test Results – Includes per-language performance
+🎛️ Real-Time Emotion Detector – Microphone + File input
+🌐 Gradio-Based UI for deployment
 
 🏗️ Tech Stack
 
-🔹 Python
-🔹 PyTorch
-🔹 HuggingFace Transformers
-🔹 Torchaudio / Librosa
-🔹 Scikit-learn
-🔹 Gradio (Real-time inference UI)
+🔹 Python – Core programming
+🔹 PyTorch – Deep learning framework
+🔹 HuggingFace Transformers – Wav2Vec2 model
+🔹 Librosa / SoundFile – Audio loading + processing
+🔹 Scikit-learn – Metrics + train/test split
+🔹 Gradio – Real-time inference interface
 
 📦 Installation
-Clone the repository
+
+Clone the repository and install dependencies:
+
 git clone https://github.com/gazalyadav/Cross-Lingual-SER-Project.git
 cd Cross-Lingual-SER-Project
-
-Create Conda environment
-conda create -n ser python=3.10
-conda activate ser
-
-Install dependencies
 pip install -r requirements.txt
 
 ▶️ Running the Project
 1️⃣ Preprocess the datasets
 
-This step loads RAVDESS + Emo-DB, resamples audio, normalizes, and generates metadata.
+This step loads RAVDESS + Emo-DB, resamples audio to 16kHz, normalizes it, and creates metadata.
 
 python src/preprocess.py
 
 
-It creates:
+Output is stored in:
 
 data/processed/
-     ├── *.wav
-     └── metadata.json
+    ├── *.wav
+    └── metadata.json
 
-2️⃣ Train the SER Model
+2️⃣ Train the Wav2Vec2 SER Model
 python src/train.py
 
-
-Expected output:
-
+Expected Results
 Dataset	Accuracy	Weighted F1
 English	~91%	~0.91
 German	~87%	~0.87
 Combined	~89–90%	~0.90
-3️⃣ Run the Real-Time App
+3️⃣ Run the Real-Time Gradio App
 python src/app_gradio.py
 
 
-You can now use:
+App starts at:
 
-🎤 Microphone recording
-🔊 WAV file upload
-📊 Instant emotion prediction
+🔗 http://127.0.0.1:7860
 
-Runs locally at:
+You can:
 
-http://127.0.0.1:7860
+🎤 Speak using Microphone
 
-📸 Screenshots (Add Yours)
+📁 Upload a .wav file
 
-You may add screenshots like this:
+📊 View predicted emotion instantly
 
-or upload snapshots of your Gradio UI / terminal output / project structure.
+📸 Screenshots
+
+(Add your own screenshots here)
+
+Example:
+
+![Screenshot 1](link_here)
+![Screenshot 2](link_here)
+![Screenshot 3](link_here)
 
 📑 File Structure
 CrossLingual_SER/
@@ -109,56 +113,42 @@ CrossLingual_SER/
 ├── requirements.txt
 └── README.md
 
-🧠 How It Works (Pipeline)
+🏆 How It Works
+1. Start Preprocessing
 
-Data Input
-Loads emotional speech from RAVDESS & Emo-DB.
+Loads RAVDESS + Emo-DB → Converts to mono → Resamples to 16 kHz → Normalizes → Saves processed files.
 
-Preprocessing
-✔ Resampling to 16 kHz
-✔ Mono conversion
-✔ Trimming
-✔ Normalization
-✔ Label harmonization
+2. Train the SER Model
 
-Feature Extraction
-Transformer extracts contextual features from raw waveforms.
+Wav2Vec2 extracts features directly from raw waveforms → Softmax classifier predicts emotions.
 
-Training
+3. Test the Model
 
-Wav2Vec2-base model
+Calculates Accuracy + F1 + per-language performance (English/German).
 
-AdamW optimizer
+4. Real-Time Prediction
 
-Balanced class weights
-
-10 epochs
-
-Prediction
-Real-time microphone or audio upload → Wav2Vec2 → Emotion output.
-
-Deployment
-Gradio app for instant demo.
+You speak → Audio processed → Wav2Vec2 inference → Emotion displayed instantly.
 
 🚀 Future Enhancements
 
-📌 Hindi + Multi-Indian-language Dataset Support
-📌 Add Gender Detection + Emotion Fusion
-📌 Convert model to ONNX for mobile apps
+📌 Add Hindi + Multilingual Indian datasets
+📌 Add gender + speaker ID
 📌 Deploy on HuggingFace Spaces
-📌 Add real-time streaming (WebSocket)
+📌 Convert to ONNX for mobile deployment
+📌 Add live streaming via WebSockets
 
 🤝 Contributing
 
 Contributions are welcome!
-You can fork the project, create a branch, and submit a pull request.
+Fork → Create a branch → Commit → Open PR.
 
 🔗 License
 
-MIT License — free to use and modify.
+MIT License – Free to use and modify.
 
 🎓 Author
 
 Gazall Yadav
-AI/ML Developer | SER Researcher | Emotion-Aware Systems
-GitHub: https://github.com/gazalyadav
+AI/ML Developer | SER Researcher
+🔗 GitHub: https://github.com/gazalyadav
