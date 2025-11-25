@@ -1,4 +1,4 @@
-#🎙️ Cross-Lingual Speech Emotion Recognition (SER) System
+🎙️ Cross-Lingual Speech Emotion Recognition (SER) System
 🚀 Overview
 
 This project is an AI-powered Speech Emotion Recognition (SER) system capable of identifying human emotions such as Angry, Happy, Neutral, and Sad from raw audio.
@@ -152,5 +152,6 @@ MIT License – Free to use and modify.
 Gazall Yadav
 AI/ML Developer | SER Researcher
 🔗 GitHub: https://github.com/gazalyadav
+
 
 
