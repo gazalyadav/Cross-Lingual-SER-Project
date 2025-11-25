@@ -1,0 +1,5624 @@
+[
+    {
+        "file": "ravdess_Actor_01_03-01-05-01-02-01-01.wav",
+        "emotion": "angry",
+        "language": "english",
+        "source": "RAVDESS"
+    },
+    {
+        "file": "ravdess_Actor_01_03-01-05-02-01-01-01.wav",
+        "emotion": "angry",
+        "language": "english",
+        "source": "RAVDESS"
+    },
+    {
+        "file": "ravdess_Actor_01_03-01-04-01-01-02-01.wav",
+        "emotion": "sad",
+        "language": "english",
+        "source": "RAVDESS"
+    },
+    {
+        "file": "ravdess_Actor_01_03-01-04-02-02-02-01.wav",
+        "emotion": "sad",
+        "language": "english",
+        "source": "RAVDESS"
+    },
+    {
+        "file": "ravdess_Actor_01_03-01-03-02-02-02-01.wav",
+        "emotion": "happy",
+        "language": "english",
+        "source": "RAVDESS"
+    },
+    {
+        "file": "ravdess_Actor_01_03-01-03-01-01-02-01.wav",
+        "emotion": "happy",
+        "language": "english",
+        "source": "RAVDESS"
+    },
+    {
+        "file": "ravdess_Actor_01_03-01-01-01-02-02-01.wav",
+        "emotion": "neutral",
+        "language": "english",
+        "source": "RAVDESS"
+    },
+    {
+        "file": "ravdess_Actor_01_03-01-03-02-01-01-01.wav",
+        "emotion": "happy",
+        "language": "english",
+        "source": "RAVDESS"
+    },
+    {
+        "file": "ravdess_Actor_01_03-01-03-01-02-01-01.wav",
+        "emotion": "happy",
+        "language": "english",
+        "source": "RAVDESS"
+    },
+    {
+        "file": "ravdess_Actor_01_03-01-01-01-01-01-01.wav",
+        "emotion": "neutral",
+        "language": "english",
+        "source": "RAVDESS"
+    },
+    {
+        "file": "ravdess_Actor_01_03-01-05-01-01-02-01.wav",
+        "emotion": "angry",
+        "language": "english",
+        "source": "RAVDESS"
+    },
+    {
+        "file": "ravdess_Actor_01_03-01-05-02-02-02-01.wav",
+        "emotion": "angry",
+        "language": "english",
+        "source": "RAVDESS"
+    },
+    {
+        "file": "ravdess_Actor_01_03-01-04-01-02-01-01.wav",
+        "emotion": "sad",
+        "language": "english",
+        "source": "RAVDESS"
+    },
+    {
+        "file": "ravdess_Actor_01_03-01-04-02-01-01-01.wav",
+        "emotion": "sad",
+        "language": "english",
+        "source": "RAVDESS"
+    },
+    {
+        "file": "ravdess_Actor_01_03-01-01-01-02-01-01.wav",
+        "emotion": "neutral",
+        "language": "english",
+        "source": "RAVDESS"
+    },
+    {
+        "file": "ravdess_Actor_01_03-01-03-01-01-01-01.wav",
+        "emotion": "happy",
+        "language": "english",
+        "source": "RAVDESS"
+    },
+    {
+        "file": "ravdess_Actor_01_03-01-03-02-02-01-01.wav",
+        "emotion": "happy",
+        "language": "english",
+        "source": "RAVDESS"
+    },
+    {
+        "file": "ravdess_Actor_01_03-01-04-02-02-01-01.wav",
+        "emotion": "sad",
+        "language": "english",
+        "source": "RAVDESS"
+    },
+    {
+        "file": "ravdess_Actor_01_03-01-04-01-01-01-01.wav",
+        "emotion": "sad",
+        "language": "english",
+        "source": "RAVDESS"
+    },
+    {
+        "file": "ravdess_Actor_01_03-01-05-02-01-02-01.wav",
+        "emotion": "angry",
+        "language": "english",
+        "source": "RAVDESS"
+    },
+    {
+        "file": "ravdess_Actor_01_03-01-05-01-02-02-01.wav",
+        "emotion": "angry",
+        "language": "english",
+        "source": "RAVDESS"
+    },
+    {
+        "file": "ravdess_Actor_01_03-01-04-02-01-02-01.wav",
+        "emotion": "sad",
+        "language": "english",
+        "source": "RAVDESS"
+    },
+    {
+        "file": "ravdess_Actor_01_03-01-04-01-02-02-01.wav",
+        "emotion": "sad",
+        "language": "english",
+        "source": "RAVDESS"
+    },
+    {
+        "file": "ravdess_Actor_01_03-01-05-02-02-01-01.wav",
+        "emotion": "angry",
+        "language": "english",
+        "source": "RAVDESS"
+    },
+    {
+        "file": "ravdess_Actor_01_03-01-05-01-01-01-01.wav",
+        "emotion": "angry",
+        "language": "english",
+        "source": "RAVDESS"
+    },
+    {
+        "file": "ravdess_Actor_01_03-01-01-01-01-02-01.wav",
+        "emotion": "neutral",
+        "language": "english",
+        "source": "RAVDESS"
+    },
+    {
+        "file": "ravdess_Actor_01_03-01-03-01-02-02-01.wav",
+        "emotion": "happy",
+        "language": "english",
+        "source": "RAVDESS"
+    },
+    {
+        "file": "ravdess_Actor_01_03-01-03-02-01-02-01.wav",
+        "emotion": "happy",
+        "language": "english",
+        "source": "RAVDESS"
+    },
+    {
+        "file": "ravdess_Actor_02_03-01-05-01-02-01-02.wav",
+        "emotion": "angry",
+        "language": "english",
+        "source": "RAVDESS"
+    },
+    {
+        "file": "ravdess_Actor_02_03-01-05-02-01-01-02.wav",
+        "emotion": "angry",
+        "language": "english",
+        "source": "RAVDESS"
+    },
+    {
+        "file": "ravdess_Actor_02_03-01-04-01-01-02-02.wav",
+        "emotion": "sad",
+        "language": "english",
+        "source": "RAVDESS"
+    },
+    {
+        "file": "ravdess_Actor_02_03-01-04-02-02-02-02.wav",
+        "emotion": "sad",
+        "language": "english",
+        "source": "RAVDESS"
+    },
+    {
+        "file": "ravdess_Actor_02_03-01-03-02-02-02-02.wav",
+        "emotion": "happy",
+        "language": "english",
+        "source": "RAVDESS"
+    },
+    {
+        "file": "ravdess_Actor_02_03-01-03-01-01-02-02.wav",
+        "emotion": "happy",
+        "language": "english",
+        "source": "RAVDESS"
+    },
+    {
+        "file": "ravdess_Actor_02_03-01-01-01-02-02-02.wav",
+        "emotion": "neutral",
+        "language": "english",
+        "source": "RAVDESS"
+    },
+    {
+        "file": "ravdess_Actor_02_03-01-03-02-01-01-02.wav",
+        "emotion": "happy",
+        "language": "english",
+        "source": "RAVDESS"
+    },
+    {
+        "file": "ravdess_Actor_02_03-01-03-01-02-01-02.wav",
+        "emotion": "happy",
+        "language": "english",
+        "source": "RAVDESS"
+    },
+    {
+        "file": "ravdess_Actor_02_03-01-01-01-01-01-02.wav",
+        "emotion": "neutral",
+        "language": "english",
+        "source": "RAVDESS"
+    },
+    {
+        "file": "ravdess_Actor_02_03-01-05-01-01-02-02.wav",
+        "emotion": "angry",
+        "language": "english",
+        "source": "RAVDESS"
+    },
+    {
+        "file": "ravdess_Actor_02_03-01-05-02-02-02-02.wav",
+        "emotion": "angry",
+        "language": "english",
+        "source": "RAVDESS"
+    },
+    {
+        "file": "ravdess_Actor_02_03-01-04-01-02-01-02.wav",
+        "emotion": "sad",
+        "language": "english",
+        "source": "RAVDESS"
+    },
+    {
+        "file": "ravdess_Actor_02_03-01-04-02-01-01-02.wav",
+        "emotion": "sad",
+        "language": "english",
+        "source": "RAVDESS"
+    },
+    {
+        "file": "ravdess_Actor_02_03-01-01-01-02-01-02.wav",
+        "emotion": "neutral",
+        "language": "english",
+        "source": "RAVDESS"
+    },
+    {
+        "file": "ravdess_Actor_02_03-01-03-01-01-01-02.wav",
+        "emotion": "happy",
+        "language": "english",
+        "source": "RAVDESS"
+    },
+    {
+        "file": "ravdess_Actor_02_03-01-03-02-02-01-02.wav",
+        "emotion": "happy",
+        "language": "english",
+        "source": "RAVDESS"
+    },
+    {
+        "file": "ravdess_Actor_02_03-01-04-02-02-01-02.wav",
+        "emotion": "sad",
+        "language": "english",
+        "source": "RAVDESS"
+    },
+    {
+        "file": "ravdess_Actor_02_03-01-04-01-01-01-02.wav",
+        "emotion": "sad",
+        "language": "english",
+        "source": "RAVDESS"
+    },
+    {
+        "file": "ravdess_Actor_02_03-01-05-02-01-02-02.wav",
+        "emotion": "angry",
+        "language": "english",
+        "source": "RAVDESS"
+    },
+    {
+        "file": "ravdess_Actor_02_03-01-05-01-02-02-02.wav",
+        "emotion": "angry",
+        "language": "english",
+        "source": "RAVDESS"
+    },
+    {
+        "file": "ravdess_Actor_02_03-01-04-02-01-02-02.wav",
+        "emotion": "sad",
+        "language": "english",
+        "source": "RAVDESS"
+    },
+    {
+        "file": "ravdess_Actor_02_03-01-04-01-02-02-02.wav",
+        "emotion": "sad",
+        "language": "english",
+        "source": "RAVDESS"
+    },
+    {
+        "file": "ravdess_Actor_02_03-01-05-02-02-01-02.wav",
+        "emotion": "angry",
+        "language": "english",
+        "source": "RAVDESS"
+    },
+    {
+        "file": "ravdess_Actor_02_03-01-05-01-01-01-02.wav",
+        "emotion": "angry",
+        "language": "english",
+        "source": "RAVDESS"
+    },
+    {
+        "file": "ravdess_Actor_02_03-01-01-01-01-02-02.wav",
+        "emotion": "neutral",
+        "language": "english",
+        "source": "RAVDESS"
+    },
+    {
+        "file": "ravdess_Actor_02_03-01-03-01-02-02-02.wav",
+        "emotion": "happy",
+        "language": "english",
+        "source": "RAVDESS"
+    },
+    {
+        "file": "ravdess_Actor_02_03-01-03-02-01-02-02.wav",
+        "emotion": "happy",
+        "language": "english",
+        "source": "RAVDESS"
+    },
+    {
+        "file": "ravdess_Actor_03_03-01-04-02-02-02-03.wav",
+        "emotion": "sad",
+        "language": "english",
+        "source": "RAVDESS"
+    },
+    {
+        "file": "ravdess_Actor_03_03-01-04-01-01-02-03.wav",
+        "emotion": "sad",
+        "language": "english",
+        "source": "RAVDESS"
+    },
+    {
+        "file": "ravdess_Actor_03_03-01-05-02-01-01-03.wav",
+        "emotion": "angry",
+        "language": "english",
+        "source": "RAVDESS"
+    },
+    {
+        "file": "ravdess_Actor_03_03-01-05-01-02-01-03.wav",
+        "emotion": "angry",
+        "language": "english",
+        "source": "RAVDESS"
+    },
+    {
+        "file": "ravdess_Actor_03_03-01-01-01-02-02-03.wav",
+        "emotion": "neutral",
+        "language": "english",
+        "source": "RAVDESS"
+    },
+    {
+        "file": "ravdess_Actor_03_03-01-03-01-01-02-03.wav",
+        "emotion": "happy",
+        "language": "english",
+        "source": "RAVDESS"
+    },
+    {
+        "file": "ravdess_Actor_03_03-01-03-02-02-02-03.wav",
+        "emotion": "happy",
+        "language": "english",
+        "source": "RAVDESS"
+    },
+    {
+        "file": "ravdess_Actor_03_03-01-01-01-01-01-03.wav",
+        "emotion": "neutral",
+        "language": "english",
+        "source": "RAVDESS"
+    },
+    {
+        "file": "ravdess_Actor_03_03-01-03-01-02-01-03.wav",
+        "emotion": "happy",
+        "language": "english",
+        "source": "RAVDESS"
+    },
+    {
+        "file": "ravdess_Actor_03_03-01-03-02-01-01-03.wav",
+        "emotion": "happy",
+        "language": "english",
+        "source": "RAVDESS"
+    },
+    {
+        "file": "ravdess_Actor_03_03-01-04-02-01-01-03.wav",
+        "emotion": "sad",
+        "language": "english",
+        "source": "RAVDESS"
+    },
+    {
+        "file": "ravdess_Actor_03_03-01-04-01-02-01-03.wav",
+        "emotion": "sad",
+        "language": "english",
+        "source": "RAVDESS"
+    },
+    {
+        "file": "ravdess_Actor_03_03-01-05-02-02-02-03.wav",
+        "emotion": "angry",
+        "language": "english",
+        "source": "RAVDESS"
+    },
+    {
+        "file": "ravdess_Actor_03_03-01-05-01-01-02-03.wav",
+        "emotion": "angry",
+        "language": "english",
+        "source": "RAVDESS"
+    },
+    {
+        "file": "ravdess_Actor_03_03-01-03-02-02-01-03.wav",
+        "emotion": "happy",
+        "language": "english",
+        "source": "RAVDESS"
+    },
+    {
+        "file": "ravdess_Actor_03_03-01-03-01-01-01-03.wav",
+        "emotion": "happy",
+        "language": "english",
+        "source": "RAVDESS"
+    },
+    {
+        "file": "ravdess_Actor_03_03-01-01-01-02-01-03.wav",
+        "emotion": "neutral",
+        "language": "english",
+        "source": "RAVDESS"
+    },
+    {
+        "file": "ravdess_Actor_03_03-01-05-01-02-02-03.wav",
+        "emotion": "angry",
+        "language": "english",
+        "source": "RAVDESS"
+    },
+    {
+        "file": "ravdess_Actor_03_03-01-05-02-01-02-03.wav",
+        "emotion": "angry",
+        "language": "english",
+        "source": "RAVDESS"
+    },
+    {
+        "file": "ravdess_Actor_03_03-01-04-01-01-01-03.wav",
+        "emotion": "sad",
+        "language": "english",
+        "source": "RAVDESS"
+    },
+    {
+        "file": "ravdess_Actor_03_03-01-04-02-02-01-03.wav",
+        "emotion": "sad",
+        "language": "english",
+        "source": "RAVDESS"
+    },
+    {
+        "file": "ravdess_Actor_03_03-01-05-01-01-01-03.wav",
+        "emotion": "angry",
+        "language": "english",
+        "source": "RAVDESS"
+    },
+    {
+        "file": "ravdess_Actor_03_03-01-05-02-02-01-03.wav",
+        "emotion": "angry",
+        "language": "english",
+        "source": "RAVDESS"
+    },
+    {
+        "file": "ravdess_Actor_03_03-01-04-01-02-02-03.wav",
+        "emotion": "sad",
+        "language": "english",
+        "source": "RAVDESS"
+    },
+    {
+        "file": "ravdess_Actor_03_03-01-04-02-01-02-03.wav",
+        "emotion": "sad",
+        "language": "english",
+        "source": "RAVDESS"
+    },
+    {
+        "file": "ravdess_Actor_03_03-01-03-02-01-02-03.wav",
+        "emotion": "happy",
+        "language": "english",
+        "source": "RAVDESS"
+    },
+    {
+        "file": "ravdess_Actor_03_03-01-03-01-02-02-03.wav",
+        "emotion": "happy",
+        "language": "english",
+        "source": "RAVDESS"
+    },
+    {
+        "file": "ravdess_Actor_03_03-01-01-01-01-02-03.wav",
+        "emotion": "neutral",
+        "language": "english",
+        "source": "RAVDESS"
+    },
+    {
+        "file": "ravdess_Actor_04_03-01-03-02-02-02-04.wav",
+        "emotion": "happy",
+        "language": "english",
+        "source": "RAVDESS"
+    },
+    {
+        "file": "ravdess_Actor_04_03-01-03-01-01-02-04.wav",
+        "emotion": "happy",
+        "language": "english",
+        "source": "RAVDESS"
+    },
+    {
+        "file": "ravdess_Actor_04_03-01-01-01-02-02-04.wav",
+        "emotion": "neutral",
+        "language": "english",
+        "source": "RAVDESS"
+    },
+    {
+        "file": "ravdess_Actor_04_03-01-05-01-02-01-04.wav",
+        "emotion": "angry",
+        "language": "english",
+        "source": "RAVDESS"
+    },
+    {
+        "file": "ravdess_Actor_04_03-01-05-02-01-01-04.wav",
+        "emotion": "angry",
+        "language": "english",
+        "source": "RAVDESS"
+    },
+    {
+        "file": "ravdess_Actor_04_03-01-04-01-01-02-04.wav",
+        "emotion": "sad",
+        "language": "english",
+        "source": "RAVDESS"
+    },
+    {
+        "file": "ravdess_Actor_04_03-01-04-02-02-02-04.wav",
+        "emotion": "sad",
+        "language": "english",
+        "source": "RAVDESS"
+    },
+    {
+        "file": "ravdess_Actor_04_03-01-05-01-01-02-04.wav",
+        "emotion": "angry",
+        "language": "english",
+        "source": "RAVDESS"
+    },
+    {
+        "file": "ravdess_Actor_04_03-01-05-02-02-02-04.wav",
+        "emotion": "angry",
+        "language": "english",
+        "source": "RAVDESS"
+    },
+    {
+        "file": "ravdess_Actor_04_03-01-04-01-02-01-04.wav",
+        "emotion": "sad",
+        "language": "english",
+        "source": "RAVDESS"
+    },
+    {
+        "file": "ravdess_Actor_04_03-01-04-02-01-01-04.wav",
+        "emotion": "sad",
+        "language": "english",
+        "source": "RAVDESS"
+    },
+    {
+        "file": "ravdess_Actor_04_03-01-03-02-01-01-04.wav",
+        "emotion": "happy",
+        "language": "english",
+        "source": "RAVDESS"
+    },
+    {
+        "file": "ravdess_Actor_04_03-01-03-01-02-01-04.wav",
+        "emotion": "happy",
+        "language": "english",
+        "source": "RAVDESS"
+    },
+    {
+        "file": "ravdess_Actor_04_03-01-01-01-01-01-04.wav",
+        "emotion": "neutral",
+        "language": "english",
+        "source": "RAVDESS"
+    },
+    {
+        "file": "ravdess_Actor_04_03-01-04-02-02-01-04.wav",
+        "emotion": "sad",
+        "language": "english",
+        "source": "RAVDESS"
+    },
+    {
+        "file": "ravdess_Actor_04_03-01-04-01-01-01-04.wav",
+        "emotion": "sad",
+        "language": "english",
+        "source": "RAVDESS"
+    },
+    {
+        "file": "ravdess_Actor_04_03-01-05-02-01-02-04.wav",
+        "emotion": "angry",
+        "language": "english",
+        "source": "RAVDESS"
+    },
+    {
+        "file": "ravdess_Actor_04_03-01-05-01-02-02-04.wav",
+        "emotion": "angry",
+        "language": "english",
+        "source": "RAVDESS"
+    },
+    {
+        "file": "ravdess_Actor_04_03-01-01-01-02-01-04.wav",
+        "emotion": "neutral",
+        "language": "english",
+        "source": "RAVDESS"
+    },
+    {
+        "file": "ravdess_Actor_04_03-01-03-01-01-01-04.wav",
+        "emotion": "happy",
+        "language": "english",
+        "source": "RAVDESS"
+    },
+    {
+        "file": "ravdess_Actor_04_03-01-03-02-02-01-04.wav",
+        "emotion": "happy",
+        "language": "english",
+        "source": "RAVDESS"
+    },
+    {
+        "file": "ravdess_Actor_04_03-01-01-01-01-02-04.wav",
+        "emotion": "neutral",
+        "language": "english",
+        "source": "RAVDESS"
+    },
+    {
+        "file": "ravdess_Actor_04_03-01-03-01-02-02-04.wav",
+        "emotion": "happy",
+        "language": "english",
+        "source": "RAVDESS"
+    },
+    {
+        "file": "ravdess_Actor_04_03-01-03-02-01-02-04.wav",
+        "emotion": "happy",
+        "language": "english",
+        "source": "RAVDESS"
+    },
+    {
+        "file": "ravdess_Actor_04_03-01-04-02-01-02-04.wav",
+        "emotion": "sad",
+        "language": "english",
+        "source": "RAVDESS"
+    },
+    {
+        "file": "ravdess_Actor_04_03-01-04-01-02-02-04.wav",
+        "emotion": "sad",
+        "language": "english",
+        "source": "RAVDESS"
+    },
+    {
+        "file": "ravdess_Actor_04_03-01-05-02-02-01-04.wav",
+        "emotion": "angry",
+        "language": "english",
+        "source": "RAVDESS"
+    },
+    {
+        "file": "ravdess_Actor_04_03-01-05-01-01-01-04.wav",
+        "emotion": "angry",
+        "language": "english",
+        "source": "RAVDESS"
+    },
+    {
+        "file": "ravdess_Actor_05_03-01-01-01-02-02-05.wav",
+        "emotion": "neutral",
+        "language": "english",
+        "source": "RAVDESS"
+    },
+    {
+        "file": "ravdess_Actor_05_03-01-03-01-01-02-05.wav",
+        "emotion": "happy",
+        "language": "english",
+        "source": "RAVDESS"
+    },
+    {
+        "file": "ravdess_Actor_05_03-01-03-02-02-02-05.wav",
+        "emotion": "happy",
+        "language": "english",
+        "source": "RAVDESS"
+    },
+    {
+        "file": "ravdess_Actor_05_03-01-04-02-02-02-05.wav",
+        "emotion": "sad",
+        "language": "english",
+        "source": "RAVDESS"
+    },
+    {
+        "file": "ravdess_Actor_05_03-01-04-01-01-02-05.wav",
+        "emotion": "sad",
+        "language": "english",
+        "source": "RAVDESS"
+    },
+    {
+        "file": "ravdess_Actor_05_03-01-05-02-01-01-05.wav",
+        "emotion": "angry",
+        "language": "english",
+        "source": "RAVDESS"
+    },
+    {
+        "file": "ravdess_Actor_05_03-01-05-01-02-01-05.wav",
+        "emotion": "angry",
+        "language": "english",
+        "source": "RAVDESS"
+    },
+    {
+        "file": "ravdess_Actor_05_03-01-04-02-01-01-05.wav",
+        "emotion": "sad",
+        "language": "english",
+        "source": "RAVDESS"
+    },
+    {
+        "file": "ravdess_Actor_05_03-01-04-01-02-01-05.wav",
+        "emotion": "sad",
+        "language": "english",
+        "source": "RAVDESS"
+    },
+    {
+        "file": "ravdess_Actor_05_03-01-05-02-02-02-05.wav",
+        "emotion": "angry",
+        "language": "english",
+        "source": "RAVDESS"
+    },
+    {
+        "file": "ravdess_Actor_05_03-01-05-01-01-02-05.wav",
+        "emotion": "angry",
+        "language": "english",
+        "source": "RAVDESS"
+    },
+    {
+        "file": "ravdess_Actor_05_03-01-01-01-01-01-05.wav",
+        "emotion": "neutral",
+        "language": "english",
+        "source": "RAVDESS"
+    },
+    {
+        "file": "ravdess_Actor_05_03-01-03-01-02-01-05.wav",
+        "emotion": "happy",
+        "language": "english",
+        "source": "RAVDESS"
+    },
+    {
+        "file": "ravdess_Actor_05_03-01-03-02-01-01-05.wav",
+        "emotion": "happy",
+        "language": "english",
+        "source": "RAVDESS"
+    },
+    {
+        "file": "ravdess_Actor_05_03-01-05-01-02-02-05.wav",
+        "emotion": "angry",
+        "language": "english",
+        "source": "RAVDESS"
+    },
+    {
+        "file": "ravdess_Actor_05_03-01-05-02-01-02-05.wav",
+        "emotion": "angry",
+        "language": "english",
+        "source": "RAVDESS"
+    },
+    {
+        "file": "ravdess_Actor_05_03-01-04-01-01-01-05.wav",
+        "emotion": "sad",
+        "language": "english",
+        "source": "RAVDESS"
+    },
+    {
+        "file": "ravdess_Actor_05_03-01-04-02-02-01-05.wav",
+        "emotion": "sad",
+        "language": "english",
+        "source": "RAVDESS"
+    },
+    {
+        "file": "ravdess_Actor_05_03-01-03-02-02-01-05.wav",
+        "emotion": "happy",
+        "language": "english",
+        "source": "RAVDESS"
+    },
+    {
+        "file": "ravdess_Actor_05_03-01-03-01-01-01-05.wav",
+        "emotion": "happy",
+        "language": "english",
+        "source": "RAVDESS"
+    },
+    {
+        "file": "ravdess_Actor_05_03-01-01-01-02-01-05.wav",
+        "emotion": "neutral",
+        "language": "english",
+        "source": "RAVDESS"
+    },
+    {
+        "file": "ravdess_Actor_05_03-01-03-02-01-02-05.wav",
+        "emotion": "happy",
+        "language": "english",
+        "source": "RAVDESS"
+    },
+    {
+        "file": "ravdess_Actor_05_03-01-03-01-02-02-05.wav",
+        "emotion": "happy",
+        "language": "english",
+        "source": "RAVDESS"
+    },
+    {
+        "file": "ravdess_Actor_05_03-01-01-01-01-02-05.wav",
+        "emotion": "neutral",
+        "language": "english",
+        "source": "RAVDESS"
+    },
+    {
+        "file": "ravdess_Actor_05_03-01-05-01-01-01-05.wav",
+        "emotion": "angry",
+        "language": "english",
+        "source": "RAVDESS"
+    },
+    {
+        "file": "ravdess_Actor_05_03-01-05-02-02-01-05.wav",
+        "emotion": "angry",
+        "language": "english",
+        "source": "RAVDESS"
+    },
+    {
+        "file": "ravdess_Actor_05_03-01-04-01-02-02-05.wav",
+        "emotion": "sad",
+        "language": "english",
+        "source": "RAVDESS"
+    },
+    {
+        "file": "ravdess_Actor_05_03-01-04-02-01-02-05.wav",
+        "emotion": "sad",
+        "language": "english",
+        "source": "RAVDESS"
+    },
+    {
+        "file": "ravdess_Actor_06_03-01-01-01-02-02-06.wav",
+        "emotion": "neutral",
+        "language": "english",
+        "source": "RAVDESS"
+    },
+    {
+        "file": "ravdess_Actor_06_03-01-03-01-01-02-06.wav",
+        "emotion": "happy",
+        "language": "english",
+        "source": "RAVDESS"
+    },
+    {
+        "file": "ravdess_Actor_06_03-01-03-02-02-02-06.wav",
+        "emotion": "happy",
+        "language": "english",
+        "source": "RAVDESS"
+    },
+    {
+        "file": "ravdess_Actor_06_03-01-04-02-02-02-06.wav",
+        "emotion": "sad",
+        "language": "english",
+        "source": "RAVDESS"
+    },
+    {
+        "file": "ravdess_Actor_06_03-01-04-01-01-02-06.wav",
+        "emotion": "sad",
+        "language": "english",
+        "source": "RAVDESS"
+    },
+    {
+        "file": "ravdess_Actor_06_03-01-05-02-01-01-06.wav",
+        "emotion": "angry",
+        "language": "english",
+        "source": "RAVDESS"
+    },
+    {
+        "file": "ravdess_Actor_06_03-01-05-01-02-01-06.wav",
+        "emotion": "angry",
+        "language": "english",
+        "source": "RAVDESS"
+    },
+    {
+        "file": "ravdess_Actor_06_03-01-04-02-01-01-06.wav",
+        "emotion": "sad",
+        "language": "english",
+        "source": "RAVDESS"
+    },
+    {
+        "file": "ravdess_Actor_06_03-01-04-01-02-01-06.wav",
+        "emotion": "sad",
+        "language": "english",
+        "source": "RAVDESS"
+    },
+    {
+        "file": "ravdess_Actor_06_03-01-05-02-02-02-06.wav",
+        "emotion": "angry",
+        "language": "english",
+        "source": "RAVDESS"
+    },
+    {
+        "file": "ravdess_Actor_06_03-01-05-01-01-02-06.wav",
+        "emotion": "angry",
+        "language": "english",
+        "source": "RAVDESS"
+    },
+    {
+        "file": "ravdess_Actor_06_03-01-01-01-01-01-06.wav",
+        "emotion": "neutral",
+        "language": "english",
+        "source": "RAVDESS"
+    },
+    {
+        "file": "ravdess_Actor_06_03-01-03-01-02-01-06.wav",
+        "emotion": "happy",
+        "language": "english",
+        "source": "RAVDESS"
+    },
+    {
+        "file": "ravdess_Actor_06_03-01-03-02-01-01-06.wav",
+        "emotion": "happy",
+        "language": "english",
+        "source": "RAVDESS"
+    },
+    {
+        "file": "ravdess_Actor_06_03-01-05-01-02-02-06.wav",
+        "emotion": "angry",
+        "language": "english",
+        "source": "RAVDESS"
+    },
+    {
+        "file": "ravdess_Actor_06_03-01-05-02-01-02-06.wav",
+        "emotion": "angry",
+        "language": "english",
+        "source": "RAVDESS"
+    },
+    {
+        "file": "ravdess_Actor_06_03-01-04-01-01-01-06.wav",
+        "emotion": "sad",
+        "language": "english",
+        "source": "RAVDESS"
+    },
+    {
+        "file": "ravdess_Actor_06_03-01-04-02-02-01-06.wav",
+        "emotion": "sad",
+        "language": "english",
+        "source": "RAVDESS"
+    },
+    {
+        "file": "ravdess_Actor_06_03-01-03-02-02-01-06.wav",
+        "emotion": "happy",
+        "language": "english",
+        "source": "RAVDESS"
+    },
+    {
+        "file": "ravdess_Actor_06_03-01-03-01-01-01-06.wav",
+        "emotion": "happy",
+        "language": "english",
+        "source": "RAVDESS"
+    },
+    {
+        "file": "ravdess_Actor_06_03-01-01-01-02-01-06.wav",
+        "emotion": "neutral",
+        "language": "english",
+        "source": "RAVDESS"
+    },
+    {
+        "file": "ravdess_Actor_06_03-01-03-02-01-02-06.wav",
+        "emotion": "happy",
+        "language": "english",
+        "source": "RAVDESS"
+    },
+    {
+        "file": "ravdess_Actor_06_03-01-03-01-02-02-06.wav",
+        "emotion": "happy",
+        "language": "english",
+        "source": "RAVDESS"
+    },
+    {
+        "file": "ravdess_Actor_06_03-01-01-01-01-02-06.wav",
+        "emotion": "neutral",
+        "language": "english",
+        "source": "RAVDESS"
+    },
+    {
+        "file": "ravdess_Actor_06_03-01-05-01-01-01-06.wav",
+        "emotion": "angry",
+        "language": "english",
+        "source": "RAVDESS"
+    },
+    {
+        "file": "ravdess_Actor_06_03-01-05-02-02-01-06.wav",
+        "emotion": "angry",
+        "language": "english",
+        "source": "RAVDESS"
+    },
+    {
+        "file": "ravdess_Actor_06_03-01-04-01-02-02-06.wav",
+        "emotion": "sad",
+        "language": "english",
+        "source": "RAVDESS"
+    },
+    {
+        "file": "ravdess_Actor_06_03-01-04-02-01-02-06.wav",
+        "emotion": "sad",
+        "language": "english",
+        "source": "RAVDESS"
+    },
+    {
+        "file": "ravdess_Actor_07_03-01-03-02-02-02-07.wav",
+        "emotion": "happy",
+        "language": "english",
+        "source": "RAVDESS"
+    },
+    {
+        "file": "ravdess_Actor_07_03-01-03-01-01-02-07.wav",
+        "emotion": "happy",
+        "language": "english",
+        "source": "RAVDESS"
+    },
+    {
+        "file": "ravdess_Actor_07_03-01-01-01-02-02-07.wav",
+        "emotion": "neutral",
+        "language": "english",
+        "source": "RAVDESS"
+    },
+    {
+        "file": "ravdess_Actor_07_03-01-05-01-02-01-07.wav",
+        "emotion": "angry",
+        "language": "english",
+        "source": "RAVDESS"
+    },
+    {
+        "file": "ravdess_Actor_07_03-01-05-02-01-01-07.wav",
+        "emotion": "angry",
+        "language": "english",
+        "source": "RAVDESS"
+    },
+    {
+        "file": "ravdess_Actor_07_03-01-04-01-01-02-07.wav",
+        "emotion": "sad",
+        "language": "english",
+        "source": "RAVDESS"
+    },
+    {
+        "file": "ravdess_Actor_07_03-01-04-02-02-02-07.wav",
+        "emotion": "sad",
+        "language": "english",
+        "source": "RAVDESS"
+    },
+    {
+        "file": "ravdess_Actor_07_03-01-05-01-01-02-07.wav",
+        "emotion": "angry",
+        "language": "english",
+        "source": "RAVDESS"
+    },
+    {
+        "file": "ravdess_Actor_07_03-01-05-02-02-02-07.wav",
+        "emotion": "angry",
+        "language": "english",
+        "source": "RAVDESS"
+    },
+    {
+        "file": "ravdess_Actor_07_03-01-04-01-02-01-07.wav",
+        "emotion": "sad",
+        "language": "english",
+        "source": "RAVDESS"
+    },
+    {
+        "file": "ravdess_Actor_07_03-01-04-02-01-01-07.wav",
+        "emotion": "sad",
+        "language": "english",
+        "source": "RAVDESS"
+    },
+    {
+        "file": "ravdess_Actor_07_03-01-03-02-01-01-07.wav",
+        "emotion": "happy",
+        "language": "english",
+        "source": "RAVDESS"
+    },
+    {
+        "file": "ravdess_Actor_07_03-01-03-01-02-01-07.wav",
+        "emotion": "happy",
+        "language": "english",
+        "source": "RAVDESS"
+    },
+    {
+        "file": "ravdess_Actor_07_03-01-01-01-01-01-07.wav",
+        "emotion": "neutral",
+        "language": "english",
+        "source": "RAVDESS"
+    },
+    {
+        "file": "ravdess_Actor_07_03-01-04-02-02-01-07.wav",
+        "emotion": "sad",
+        "language": "english",
+        "source": "RAVDESS"
+    },
+    {
+        "file": "ravdess_Actor_07_03-01-04-01-01-01-07.wav",
+        "emotion": "sad",
+        "language": "english",
+        "source": "RAVDESS"
+    },
+    {
+        "file": "ravdess_Actor_07_03-01-05-02-01-02-07.wav",
+        "emotion": "angry",
+        "language": "english",
+        "source": "RAVDESS"
+    },
+    {
+        "file": "ravdess_Actor_07_03-01-05-01-02-02-07.wav",
+        "emotion": "angry",
+        "language": "english",
+        "source": "RAVDESS"
+    },
+    {
+        "file": "ravdess_Actor_07_03-01-01-01-02-01-07.wav",
+        "emotion": "neutral",
+        "language": "english",
+        "source": "RAVDESS"
+    },
+    {
+        "file": "ravdess_Actor_07_03-01-03-01-01-01-07.wav",
+        "emotion": "happy",
+        "language": "english",
+        "source": "RAVDESS"
+    },
+    {
+        "file": "ravdess_Actor_07_03-01-03-02-02-01-07.wav",
+        "emotion": "happy",
+        "language": "english",
+        "source": "RAVDESS"
+    },
+    {
+        "file": "ravdess_Actor_07_03-01-01-01-01-02-07.wav",
+        "emotion": "neutral",
+        "language": "english",
+        "source": "RAVDESS"
+    },
+    {
+        "file": "ravdess_Actor_07_03-01-03-01-02-02-07.wav",
+        "emotion": "happy",
+        "language": "english",
+        "source": "RAVDESS"
+    },
+    {
+        "file": "ravdess_Actor_07_03-01-03-02-01-02-07.wav",
+        "emotion": "happy",
+        "language": "english",
+        "source": "RAVDESS"
+    },
+    {
+        "file": "ravdess_Actor_07_03-01-04-02-01-02-07.wav",
+        "emotion": "sad",
+        "language": "english",
+        "source": "RAVDESS"
+    },
+    {
+        "file": "ravdess_Actor_07_03-01-04-01-02-02-07.wav",
+        "emotion": "sad",
+        "language": "english",
+        "source": "RAVDESS"
+    },
+    {
+        "file": "ravdess_Actor_07_03-01-05-02-02-01-07.wav",
+        "emotion": "angry",
+        "language": "english",
+        "source": "RAVDESS"
+    },
+    {
+        "file": "ravdess_Actor_07_03-01-05-01-01-01-07.wav",
+        "emotion": "angry",
+        "language": "english",
+        "source": "RAVDESS"
+    },
+    {
+        "file": "ravdess_Actor_08_03-01-04-02-01-02-08.wav",
+        "emotion": "sad",
+        "language": "english",
+        "source": "RAVDESS"
+    },
+    {
+        "file": "ravdess_Actor_08_03-01-04-01-02-02-08.wav",
+        "emotion": "sad",
+        "language": "english",
+        "source": "RAVDESS"
+    },
+    {
+        "file": "ravdess_Actor_08_03-01-05-02-02-01-08.wav",
+        "emotion": "angry",
+        "language": "english",
+        "source": "RAVDESS"
+    },
+    {
+        "file": "ravdess_Actor_08_03-01-05-01-01-01-08.wav",
+        "emotion": "angry",
+        "language": "english",
+        "source": "RAVDESS"
+    },
+    {
+        "file": "ravdess_Actor_08_03-01-01-01-01-02-08.wav",
+        "emotion": "neutral",
+        "language": "english",
+        "source": "RAVDESS"
+    },
+    {
+        "file": "ravdess_Actor_08_03-01-03-01-02-02-08.wav",
+        "emotion": "happy",
+        "language": "english",
+        "source": "RAVDESS"
+    },
+    {
+        "file": "ravdess_Actor_08_03-01-03-02-01-02-08.wav",
+        "emotion": "happy",
+        "language": "english",
+        "source": "RAVDESS"
+    },
+    {
+        "file": "ravdess_Actor_08_03-01-01-01-02-01-08.wav",
+        "emotion": "neutral",
+        "language": "english",
+        "source": "RAVDESS"
+    },
+    {
+        "file": "ravdess_Actor_08_03-01-03-01-01-01-08.wav",
+        "emotion": "happy",
+        "language": "english",
+        "source": "RAVDESS"
+    },
+    {
+        "file": "ravdess_Actor_08_03-01-03-02-02-01-08.wav",
+        "emotion": "happy",
+        "language": "english",
+        "source": "RAVDESS"
+    },
+    {
+        "file": "ravdess_Actor_08_03-01-04-02-02-01-08.wav",
+        "emotion": "sad",
+        "language": "english",
+        "source": "RAVDESS"
+    },
+    {
+        "file": "ravdess_Actor_08_03-01-04-01-01-01-08.wav",
+        "emotion": "sad",
+        "language": "english",
+        "source": "RAVDESS"
+    },
+    {
+        "file": "ravdess_Actor_08_03-01-05-02-01-02-08.wav",
+        "emotion": "angry",
+        "language": "english",
+        "source": "RAVDESS"
+    },
+    {
+        "file": "ravdess_Actor_08_03-01-05-01-02-02-08.wav",
+        "emotion": "angry",
+        "language": "english",
+        "source": "RAVDESS"
+    },
+    {
+        "file": "ravdess_Actor_08_03-01-03-02-01-01-08.wav",
+        "emotion": "happy",
+        "language": "english",
+        "source": "RAVDESS"
+    },
+    {
+        "file": "ravdess_Actor_08_03-01-03-01-02-01-08.wav",
+        "emotion": "happy",
+        "language": "english",
+        "source": "RAVDESS"
+    },
+    {
+        "file": "ravdess_Actor_08_03-01-01-01-01-01-08.wav",
+        "emotion": "neutral",
+        "language": "english",
+        "source": "RAVDESS"
+    },
+    {
+        "file": "ravdess_Actor_08_03-01-05-01-01-02-08.wav",
+        "emotion": "angry",
+        "language": "english",
+        "source": "RAVDESS"
+    },
+    {
+        "file": "ravdess_Actor_08_03-01-05-02-02-02-08.wav",
+        "emotion": "angry",
+        "language": "english",
+        "source": "RAVDESS"
+    },
+    {
+        "file": "ravdess_Actor_08_03-01-04-01-02-01-08.wav",
+        "emotion": "sad",
+        "language": "english",
+        "source": "RAVDESS"
+    },
+    {
+        "file": "ravdess_Actor_08_03-01-04-02-01-01-08.wav",
+        "emotion": "sad",
+        "language": "english",
+        "source": "RAVDESS"
+    },
+    {
+        "file": "ravdess_Actor_08_03-01-05-01-02-01-08.wav",
+        "emotion": "angry",
+        "language": "english",
+        "source": "RAVDESS"
+    },
+    {
+        "file": "ravdess_Actor_08_03-01-05-02-01-01-08.wav",
+        "emotion": "angry",
+        "language": "english",
+        "source": "RAVDESS"
+    },
+    {
+        "file": "ravdess_Actor_08_03-01-04-01-01-02-08.wav",
+        "emotion": "sad",
+        "language": "english",
+        "source": "RAVDESS"
+    },
+    {
+        "file": "ravdess_Actor_08_03-01-04-02-02-02-08.wav",
+        "emotion": "sad",
+        "language": "english",
+        "source": "RAVDESS"
+    },
+    {
+        "file": "ravdess_Actor_08_03-01-03-02-02-02-08.wav",
+        "emotion": "happy",
+        "language": "english",
+        "source": "RAVDESS"
+    },
+    {
+        "file": "ravdess_Actor_08_03-01-03-01-01-02-08.wav",
+        "emotion": "happy",
+        "language": "english",
+        "source": "RAVDESS"
+    },
+    {
+        "file": "ravdess_Actor_08_03-01-01-01-02-02-08.wav",
+        "emotion": "neutral",
+        "language": "english",
+        "source": "RAVDESS"
+    },
+    {
+        "file": "ravdess_Actor_09_03-01-05-01-01-01-09.wav",
+        "emotion": "angry",
+        "language": "english",
+        "source": "RAVDESS"
+    },
+    {
+        "file": "ravdess_Actor_09_03-01-05-02-02-01-09.wav",
+        "emotion": "angry",
+        "language": "english",
+        "source": "RAVDESS"
+    },
+    {
+        "file": "ravdess_Actor_09_03-01-04-01-02-02-09.wav",
+        "emotion": "sad",
+        "language": "english",
+        "source": "RAVDESS"
+    },
+    {
+        "file": "ravdess_Actor_09_03-01-04-02-01-02-09.wav",
+        "emotion": "sad",
+        "language": "english",
+        "source": "RAVDESS"
+    },
+    {
+        "file": "ravdess_Actor_09_03-01-03-02-01-02-09.wav",
+        "emotion": "happy",
+        "language": "english",
+        "source": "RAVDESS"
+    },
+    {
+        "file": "ravdess_Actor_09_03-01-03-01-02-02-09.wav",
+        "emotion": "happy",
+        "language": "english",
+        "source": "RAVDESS"
+    },
+    {
+        "file": "ravdess_Actor_09_03-01-01-01-01-02-09.wav",
+        "emotion": "neutral",
+        "language": "english",
+        "source": "RAVDESS"
+    },
+    {
+        "file": "ravdess_Actor_09_03-01-03-02-02-01-09.wav",
+        "emotion": "happy",
+        "language": "english",
+        "source": "RAVDESS"
+    },
+    {
+        "file": "ravdess_Actor_09_03-01-03-01-01-01-09.wav",
+        "emotion": "happy",
+        "language": "english",
+        "source": "RAVDESS"
+    },
+    {
+        "file": "ravdess_Actor_09_03-01-01-01-02-01-09.wav",
+        "emotion": "neutral",
+        "language": "english",
+        "source": "RAVDESS"
+    },
+    {
+        "file": "ravdess_Actor_09_03-01-05-01-02-02-09.wav",
+        "emotion": "angry",
+        "language": "english",
+        "source": "RAVDESS"
+    },
+    {
+        "file": "ravdess_Actor_09_03-01-05-02-01-02-09.wav",
+        "emotion": "angry",
+        "language": "english",
+        "source": "RAVDESS"
+    },
+    {
+        "file": "ravdess_Actor_09_03-01-04-01-01-01-09.wav",
+        "emotion": "sad",
+        "language": "english",
+        "source": "RAVDESS"
+    },
+    {
+        "file": "ravdess_Actor_09_03-01-04-02-02-01-09.wav",
+        "emotion": "sad",
+        "language": "english",
+        "source": "RAVDESS"
+    },
+    {
+        "file": "ravdess_Actor_09_03-01-01-01-01-01-09.wav",
+        "emotion": "neutral",
+        "language": "english",
+        "source": "RAVDESS"
+    },
+    {
+        "file": "ravdess_Actor_09_03-01-03-01-02-01-09.wav",
+        "emotion": "happy",
+        "language": "english",
+        "source": "RAVDESS"
+    },
+    {
+        "file": "ravdess_Actor_09_03-01-03-02-01-01-09.wav",
+        "emotion": "happy",
+        "language": "english",
+        "source": "RAVDESS"
+    },
+    {
+        "file": "ravdess_Actor_09_03-01-04-02-01-01-09.wav",
+        "emotion": "sad",
+        "language": "english",
+        "source": "RAVDESS"
+    },
+    {
+        "file": "ravdess_Actor_09_03-01-04-01-02-01-09.wav",
+        "emotion": "sad",
+        "language": "english",
+        "source": "RAVDESS"
+    },
+    {
+        "file": "ravdess_Actor_09_03-01-05-02-02-02-09.wav",
+        "emotion": "angry",
+        "language": "english",
+        "source": "RAVDESS"
+    },
+    {
+        "file": "ravdess_Actor_09_03-01-05-01-01-02-09.wav",
+        "emotion": "angry",
+        "language": "english",
+        "source": "RAVDESS"
+    },
+    {
+        "file": "ravdess_Actor_09_03-01-04-02-02-02-09.wav",
+        "emotion": "sad",
+        "language": "english",
+        "source": "RAVDESS"
+    },
+    {
+        "file": "ravdess_Actor_09_03-01-04-01-01-02-09.wav",
+        "emotion": "sad",
+        "language": "english",
+        "source": "RAVDESS"
+    },
+    {
+        "file": "ravdess_Actor_09_03-01-05-02-01-01-09.wav",
+        "emotion": "angry",
+        "language": "english",
+        "source": "RAVDESS"
+    },
+    {
+        "file": "ravdess_Actor_09_03-01-05-01-02-01-09.wav",
+        "emotion": "angry",
+        "language": "english",
+        "source": "RAVDESS"
+    },
+    {
+        "file": "ravdess_Actor_09_03-01-01-01-02-02-09.wav",
+        "emotion": "neutral",
+        "language": "english",
+        "source": "RAVDESS"
+    },
+    {
+        "file": "ravdess_Actor_09_03-01-03-01-01-02-09.wav",
+        "emotion": "happy",
+        "language": "english",
+        "source": "RAVDESS"
+    },
+    {
+        "file": "ravdess_Actor_09_03-01-03-02-02-02-09.wav",
+        "emotion": "happy",
+        "language": "english",
+        "source": "RAVDESS"
+    },
+    {
+        "file": "ravdess_Actor_10_03-01-03-02-02-02-10.wav",
+        "emotion": "happy",
+        "language": "english",
+        "source": "RAVDESS"
+    },
+    {
+        "file": "ravdess_Actor_10_03-01-03-01-01-02-10.wav",
+        "emotion": "happy",
+        "language": "english",
+        "source": "RAVDESS"
+    },
+    {
+        "file": "ravdess_Actor_10_03-01-01-01-02-02-10.wav",
+        "emotion": "neutral",
+        "language": "english",
+        "source": "RAVDESS"
+    },
+    {
+        "file": "ravdess_Actor_10_03-01-05-01-02-01-10.wav",
+        "emotion": "angry",
+        "language": "english",
+        "source": "RAVDESS"
+    },
+    {
+        "file": "ravdess_Actor_10_03-01-05-02-01-01-10.wav",
+        "emotion": "angry",
+        "language": "english",
+        "source": "RAVDESS"
+    },
+    {
+        "file": "ravdess_Actor_10_03-01-04-01-01-02-10.wav",
+        "emotion": "sad",
+        "language": "english",
+        "source": "RAVDESS"
+    },
+    {
+        "file": "ravdess_Actor_10_03-01-04-02-02-02-10.wav",
+        "emotion": "sad",
+        "language": "english",
+        "source": "RAVDESS"
+    },
+    {
+        "file": "ravdess_Actor_10_03-01-05-01-01-02-10.wav",
+        "emotion": "angry",
+        "language": "english",
+        "source": "RAVDESS"
+    },
+    {
+        "file": "ravdess_Actor_10_03-01-05-02-02-02-10.wav",
+        "emotion": "angry",
+        "language": "english",
+        "source": "RAVDESS"
+    },
+    {
+        "file": "ravdess_Actor_10_03-01-04-01-02-01-10.wav",
+        "emotion": "sad",
+        "language": "english",
+        "source": "RAVDESS"
+    },
+    {
+        "file": "ravdess_Actor_10_03-01-04-02-01-01-10.wav",
+        "emotion": "sad",
+        "language": "english",
+        "source": "RAVDESS"
+    },
+    {
+        "file": "ravdess_Actor_10_03-01-03-02-01-01-10.wav",
+        "emotion": "happy",
+        "language": "english",
+        "source": "RAVDESS"
+    },
+    {
+        "file": "ravdess_Actor_10_03-01-03-01-02-01-10.wav",
+        "emotion": "happy",
+        "language": "english",
+        "source": "RAVDESS"
+    },
+    {
+        "file": "ravdess_Actor_10_03-01-01-01-01-01-10.wav",
+        "emotion": "neutral",
+        "language": "english",
+        "source": "RAVDESS"
+    },
+    {
+        "file": "ravdess_Actor_10_03-01-04-02-02-01-10.wav",
+        "emotion": "sad",
+        "language": "english",
+        "source": "RAVDESS"
+    },
+    {
+        "file": "ravdess_Actor_10_03-01-04-01-01-01-10.wav",
+        "emotion": "sad",
+        "language": "english",
+        "source": "RAVDESS"
+    },
+    {
+        "file": "ravdess_Actor_10_03-01-05-02-01-02-10.wav",
+        "emotion": "angry",
+        "language": "english",
+        "source": "RAVDESS"
+    },
+    {
+        "file": "ravdess_Actor_10_03-01-05-01-02-02-10.wav",
+        "emotion": "angry",
+        "language": "english",
+        "source": "RAVDESS"
+    },
+    {
+        "file": "ravdess_Actor_10_03-01-01-01-02-01-10.wav",
+        "emotion": "neutral",
+        "language": "english",
+        "source": "RAVDESS"
+    },
+    {
+        "file": "ravdess_Actor_10_03-01-03-01-01-01-10.wav",
+        "emotion": "happy",
+        "language": "english",
+        "source": "RAVDESS"
+    },
+    {
+        "file": "ravdess_Actor_10_03-01-03-02-02-01-10.wav",
+        "emotion": "happy",
+        "language": "english",
+        "source": "RAVDESS"
+    },
+    {
+        "file": "ravdess_Actor_10_03-01-01-01-01-02-10.wav",
+        "emotion": "neutral",
+        "language": "english",
+        "source": "RAVDESS"
+    },
+    {
+        "file": "ravdess_Actor_10_03-01-03-01-02-02-10.wav",
+        "emotion": "happy",
+        "language": "english",
+        "source": "RAVDESS"
+    },
+    {
+        "file": "ravdess_Actor_10_03-01-03-02-01-02-10.wav",
+        "emotion": "happy",
+        "language": "english",
+        "source": "RAVDESS"
+    },
+    {
+        "file": "ravdess_Actor_10_03-01-04-02-01-02-10.wav",
+        "emotion": "sad",
+        "language": "english",
+        "source": "RAVDESS"
+    },
+    {
+        "file": "ravdess_Actor_10_03-01-04-01-02-02-10.wav",
+        "emotion": "sad",
+        "language": "english",
+        "source": "RAVDESS"
+    },
+    {
+        "file": "ravdess_Actor_10_03-01-05-02-02-01-10.wav",
+        "emotion": "angry",
+        "language": "english",
+        "source": "RAVDESS"
+    },
+    {
+        "file": "ravdess_Actor_10_03-01-05-01-01-01-10.wav",
+        "emotion": "angry",
+        "language": "english",
+        "source": "RAVDESS"
+    },
+    {
+        "file": "ravdess_Actor_11_03-01-01-01-02-02-11.wav",
+        "emotion": "neutral",
+        "language": "english",
+        "source": "RAVDESS"
+    },
+    {
+        "file": "ravdess_Actor_11_03-01-03-01-01-02-11.wav",
+        "emotion": "happy",
+        "language": "english",
+        "source": "RAVDESS"
+    },
+    {
+        "file": "ravdess_Actor_11_03-01-03-02-02-02-11.wav",
+        "emotion": "happy",
+        "language": "english",
+        "source": "RAVDESS"
+    },
+    {
+        "file": "ravdess_Actor_11_03-01-04-02-02-02-11.wav",
+        "emotion": "sad",
+        "language": "english",
+        "source": "RAVDESS"
+    },
+    {
+        "file": "ravdess_Actor_11_03-01-04-01-01-02-11.wav",
+        "emotion": "sad",
+        "language": "english",
+        "source": "RAVDESS"
+    },
+    {
+        "file": "ravdess_Actor_11_03-01-05-02-01-01-11.wav",
+        "emotion": "angry",
+        "language": "english",
+        "source": "RAVDESS"
+    },
+    {
+        "file": "ravdess_Actor_11_03-01-05-01-02-01-11.wav",
+        "emotion": "angry",
+        "language": "english",
+        "source": "RAVDESS"
+    },
+    {
+        "file": "ravdess_Actor_11_03-01-04-02-01-01-11.wav",
+        "emotion": "sad",
+        "language": "english",
+        "source": "RAVDESS"
+    },
+    {
+        "file": "ravdess_Actor_11_03-01-04-01-02-01-11.wav",
+        "emotion": "sad",
+        "language": "english",
+        "source": "RAVDESS"
+    },
+    {
+        "file": "ravdess_Actor_11_03-01-05-02-02-02-11.wav",
+        "emotion": "angry",
+        "language": "english",
+        "source": "RAVDESS"
+    },
+    {
+        "file": "ravdess_Actor_11_03-01-05-01-01-02-11.wav",
+        "emotion": "angry",
+        "language": "english",
+        "source": "RAVDESS"
+    },
+    {
+        "file": "ravdess_Actor_11_03-01-01-01-01-01-11.wav",
+        "emotion": "neutral",
+        "language": "english",
+        "source": "RAVDESS"
+    },
+    {
+        "file": "ravdess_Actor_11_03-01-03-01-02-01-11.wav",
+        "emotion": "happy",
+        "language": "english",
+        "source": "RAVDESS"
+    },
+    {
+        "file": "ravdess_Actor_11_03-01-03-02-01-01-11.wav",
+        "emotion": "happy",
+        "language": "english",
+        "source": "RAVDESS"
+    },
+    {
+        "file": "ravdess_Actor_11_03-01-05-01-02-02-11.wav",
+        "emotion": "angry",
+        "language": "english",
+        "source": "RAVDESS"
+    },
+    {
+        "file": "ravdess_Actor_11_03-01-05-02-01-02-11.wav",
+        "emotion": "angry",
+        "language": "english",
+        "source": "RAVDESS"
+    },
+    {
+        "file": "ravdess_Actor_11_03-01-04-01-01-01-11.wav",
+        "emotion": "sad",
+        "language": "english",
+        "source": "RAVDESS"
+    },
+    {
+        "file": "ravdess_Actor_11_03-01-04-02-02-01-11.wav",
+        "emotion": "sad",
+        "language": "english",
+        "source": "RAVDESS"
+    },
+    {
+        "file": "ravdess_Actor_11_03-01-03-02-02-01-11.wav",
+        "emotion": "happy",
+        "language": "english",
+        "source": "RAVDESS"
+    },
+    {
+        "file": "ravdess_Actor_11_03-01-03-01-01-01-11.wav",
+        "emotion": "happy",
+        "language": "english",
+        "source": "RAVDESS"
+    },
+    {
+        "file": "ravdess_Actor_11_03-01-01-01-02-01-11.wav",
+        "emotion": "neutral",
+        "language": "english",
+        "source": "RAVDESS"
+    },
+    {
+        "file": "ravdess_Actor_11_03-01-03-02-01-02-11.wav",
+        "emotion": "happy",
+        "language": "english",
+        "source": "RAVDESS"
+    },
+    {
+        "file": "ravdess_Actor_11_03-01-03-01-02-02-11.wav",
+        "emotion": "happy",
+        "language": "english",
+        "source": "RAVDESS"
+    },
+    {
+        "file": "ravdess_Actor_11_03-01-01-01-01-02-11.wav",
+        "emotion": "neutral",
+        "language": "english",
+        "source": "RAVDESS"
+    },
+    {
+        "file": "ravdess_Actor_11_03-01-05-01-01-01-11.wav",
+        "emotion": "angry",
+        "language": "english",
+        "source": "RAVDESS"
+    },
+    {
+        "file": "ravdess_Actor_11_03-01-05-02-02-01-11.wav",
+        "emotion": "angry",
+        "language": "english",
+        "source": "RAVDESS"
+    },
+    {
+        "file": "ravdess_Actor_11_03-01-04-01-02-02-11.wav",
+        "emotion": "sad",
+        "language": "english",
+        "source": "RAVDESS"
+    },
+    {
+        "file": "ravdess_Actor_11_03-01-04-02-01-02-11.wav",
+        "emotion": "sad",
+        "language": "english",
+        "source": "RAVDESS"
+    },
+    {
+        "file": "ravdess_Actor_12_03-01-01-01-02-02-12.wav",
+        "emotion": "neutral",
+        "language": "english",
+        "source": "RAVDESS"
+    },
+    {
+        "file": "ravdess_Actor_12_03-01-03-01-01-02-12.wav",
+        "emotion": "happy",
+        "language": "english",
+        "source": "RAVDESS"
+    },
+    {
+        "file": "ravdess_Actor_12_03-01-03-02-02-02-12.wav",
+        "emotion": "happy",
+        "language": "english",
+        "source": "RAVDESS"
+    },
+    {
+        "file": "ravdess_Actor_12_03-01-04-02-02-02-12.wav",
+        "emotion": "sad",
+        "language": "english",
+        "source": "RAVDESS"
+    },
+    {
+        "file": "ravdess_Actor_12_03-01-04-01-01-02-12.wav",
+        "emotion": "sad",
+        "language": "english",
+        "source": "RAVDESS"
+    },
+    {
+        "file": "ravdess_Actor_12_03-01-05-02-01-01-12.wav",
+        "emotion": "angry",
+        "language": "english",
+        "source": "RAVDESS"
+    },
+    {
+        "file": "ravdess_Actor_12_03-01-05-01-02-01-12.wav",
+        "emotion": "angry",
+        "language": "english",
+        "source": "RAVDESS"
+    },
+    {
+        "file": "ravdess_Actor_12_03-01-04-02-01-01-12.wav",
+        "emotion": "sad",
+        "language": "english",
+        "source": "RAVDESS"
+    },
+    {
+        "file": "ravdess_Actor_12_03-01-04-01-02-01-12.wav",
+        "emotion": "sad",
+        "language": "english",
+        "source": "RAVDESS"
+    },
+    {
+        "file": "ravdess_Actor_12_03-01-05-02-02-02-12.wav",
+        "emotion": "angry",
+        "language": "english",
+        "source": "RAVDESS"
+    },
+    {
+        "file": "ravdess_Actor_12_03-01-05-01-01-02-12.wav",
+        "emotion": "angry",
+        "language": "english",
+        "source": "RAVDESS"
+    },
+    {
+        "file": "ravdess_Actor_12_03-01-01-01-01-01-12.wav",
+        "emotion": "neutral",
+        "language": "english",
+        "source": "RAVDESS"
+    },
+    {
+        "file": "ravdess_Actor_12_03-01-03-01-02-01-12.wav",
+        "emotion": "happy",
+        "language": "english",
+        "source": "RAVDESS"
+    },
+    {
+        "file": "ravdess_Actor_12_03-01-03-02-01-01-12.wav",
+        "emotion": "happy",
+        "language": "english",
+        "source": "RAVDESS"
+    },
+    {
+        "file": "ravdess_Actor_12_03-01-05-01-02-02-12.wav",
+        "emotion": "angry",
+        "language": "english",
+        "source": "RAVDESS"
+    },
+    {
+        "file": "ravdess_Actor_12_03-01-05-02-01-02-12.wav",
+        "emotion": "angry",
+        "language": "english",
+        "source": "RAVDESS"
+    },
+    {
+        "file": "ravdess_Actor_12_03-01-04-01-01-01-12.wav",
+        "emotion": "sad",
+        "language": "english",
+        "source": "RAVDESS"
+    },
+    {
+        "file": "ravdess_Actor_12_03-01-04-02-02-01-12.wav",
+        "emotion": "sad",
+        "language": "english",
+        "source": "RAVDESS"
+    },
+    {
+        "file": "ravdess_Actor_12_03-01-03-02-02-01-12.wav",
+        "emotion": "happy",
+        "language": "english",
+        "source": "RAVDESS"
+    },
+    {
+        "file": "ravdess_Actor_12_03-01-03-01-01-01-12.wav",
+        "emotion": "happy",
+        "language": "english",
+        "source": "RAVDESS"
+    },
+    {
+        "file": "ravdess_Actor_12_03-01-01-01-02-01-12.wav",
+        "emotion": "neutral",
+        "language": "english",
+        "source": "RAVDESS"
+    },
+    {
+        "file": "ravdess_Actor_12_03-01-03-02-01-02-12.wav",
+        "emotion": "happy",
+        "language": "english",
+        "source": "RAVDESS"
+    },
+    {
+        "file": "ravdess_Actor_12_03-01-03-01-02-02-12.wav",
+        "emotion": "happy",
+        "language": "english",
+        "source": "RAVDESS"
+    },
+    {
+        "file": "ravdess_Actor_12_03-01-01-01-01-02-12.wav",
+        "emotion": "neutral",
+        "language": "english",
+        "source": "RAVDESS"
+    },
+    {
+        "file": "ravdess_Actor_12_03-01-05-01-01-01-12.wav",
+        "emotion": "angry",
+        "language": "english",
+        "source": "RAVDESS"
+    },
+    {
+        "file": "ravdess_Actor_12_03-01-05-02-02-01-12.wav",
+        "emotion": "angry",
+        "language": "english",
+        "source": "RAVDESS"
+    },
+    {
+        "file": "ravdess_Actor_12_03-01-04-01-02-02-12.wav",
+        "emotion": "sad",
+        "language": "english",
+        "source": "RAVDESS"
+    },
+    {
+        "file": "ravdess_Actor_12_03-01-04-02-01-02-12.wav",
+        "emotion": "sad",
+        "language": "english",
+        "source": "RAVDESS"
+    },
+    {
+        "file": "ravdess_Actor_13_03-01-03-02-02-02-13.wav",
+        "emotion": "happy",
+        "language": "english",
+        "source": "RAVDESS"
+    },
+    {
+        "file": "ravdess_Actor_13_03-01-03-01-01-02-13.wav",
+        "emotion": "happy",
+        "language": "english",
+        "source": "RAVDESS"
+    },
+    {
+        "file": "ravdess_Actor_13_03-01-01-01-02-02-13.wav",
+        "emotion": "neutral",
+        "language": "english",
+        "source": "RAVDESS"
+    },
+    {
+        "file": "ravdess_Actor_13_03-01-05-01-02-01-13.wav",
+        "emotion": "angry",
+        "language": "english",
+        "source": "RAVDESS"
+    },
+    {
+        "file": "ravdess_Actor_13_03-01-05-02-01-01-13.wav",
+        "emotion": "angry",
+        "language": "english",
+        "source": "RAVDESS"
+    },
+    {
+        "file": "ravdess_Actor_13_03-01-04-01-01-02-13.wav",
+        "emotion": "sad",
+        "language": "english",
+        "source": "RAVDESS"
+    },
+    {
+        "file": "ravdess_Actor_13_03-01-04-02-02-02-13.wav",
+        "emotion": "sad",
+        "language": "english",
+        "source": "RAVDESS"
+    },
+    {
+        "file": "ravdess_Actor_13_03-01-05-01-01-02-13.wav",
+        "emotion": "angry",
+        "language": "english",
+        "source": "RAVDESS"
+    },
+    {
+        "file": "ravdess_Actor_13_03-01-05-02-02-02-13.wav",
+        "emotion": "angry",
+        "language": "english",
+        "source": "RAVDESS"
+    },
+    {
+        "file": "ravdess_Actor_13_03-01-04-01-02-01-13.wav",
+        "emotion": "sad",
+        "language": "english",
+        "source": "RAVDESS"
+    },
+    {
+        "file": "ravdess_Actor_13_03-01-04-02-01-01-13.wav",
+        "emotion": "sad",
+        "language": "english",
+        "source": "RAVDESS"
+    },
+    {
+        "file": "ravdess_Actor_13_03-01-03-02-01-01-13.wav",
+        "emotion": "happy",
+        "language": "english",
+        "source": "RAVDESS"
+    },
+    {
+        "file": "ravdess_Actor_13_03-01-03-01-02-01-13.wav",
+        "emotion": "happy",
+        "language": "english",
+        "source": "RAVDESS"
+    },
+    {
+        "file": "ravdess_Actor_13_03-01-01-01-01-01-13.wav",
+        "emotion": "neutral",
+        "language": "english",
+        "source": "RAVDESS"
+    },
+    {
+        "file": "ravdess_Actor_13_03-01-04-02-02-01-13.wav",
+        "emotion": "sad",
+        "language": "english",
+        "source": "RAVDESS"
+    },
+    {
+        "file": "ravdess_Actor_13_03-01-04-01-01-01-13.wav",
+        "emotion": "sad",
+        "language": "english",
+        "source": "RAVDESS"
+    },
+    {
+        "file": "ravdess_Actor_13_03-01-05-02-01-02-13.wav",
+        "emotion": "angry",
+        "language": "english",
+        "source": "RAVDESS"
+    },
+    {
+        "file": "ravdess_Actor_13_03-01-05-01-02-02-13.wav",
+        "emotion": "angry",
+        "language": "english",
+        "source": "RAVDESS"
+    },
+    {
+        "file": "ravdess_Actor_13_03-01-01-01-02-01-13.wav",
+        "emotion": "neutral",
+        "language": "english",
+        "source": "RAVDESS"
+    },
+    {
+        "file": "ravdess_Actor_13_03-01-03-01-01-01-13.wav",
+        "emotion": "happy",
+        "language": "english",
+        "source": "RAVDESS"
+    },
+    {
+        "file": "ravdess_Actor_13_03-01-03-02-02-01-13.wav",
+        "emotion": "happy",
+        "language": "english",
+        "source": "RAVDESS"
+    },
+    {
+        "file": "ravdess_Actor_13_03-01-01-01-01-02-13.wav",
+        "emotion": "neutral",
+        "language": "english",
+        "source": "RAVDESS"
+    },
+    {
+        "file": "ravdess_Actor_13_03-01-03-01-02-02-13.wav",
+        "emotion": "happy",
+        "language": "english",
+        "source": "RAVDESS"
+    },
+    {
+        "file": "ravdess_Actor_13_03-01-03-02-01-02-13.wav",
+        "emotion": "happy",
+        "language": "english",
+        "source": "RAVDESS"
+    },
+    {
+        "file": "ravdess_Actor_13_03-01-04-02-01-02-13.wav",
+        "emotion": "sad",
+        "language": "english",
+        "source": "RAVDESS"
+    },
+    {
+        "file": "ravdess_Actor_13_03-01-04-01-02-02-13.wav",
+        "emotion": "sad",
+        "language": "english",
+        "source": "RAVDESS"
+    },
+    {
+        "file": "ravdess_Actor_13_03-01-05-02-02-01-13.wav",
+        "emotion": "angry",
+        "language": "english",
+        "source": "RAVDESS"
+    },
+    {
+        "file": "ravdess_Actor_13_03-01-05-01-01-01-13.wav",
+        "emotion": "angry",
+        "language": "english",
+        "source": "RAVDESS"
+    },
+    {
+        "file": "ravdess_Actor_14_03-01-04-02-02-02-14.wav",
+        "emotion": "sad",
+        "language": "english",
+        "source": "RAVDESS"
+    },
+    {
+        "file": "ravdess_Actor_14_03-01-04-01-01-02-14.wav",
+        "emotion": "sad",
+        "language": "english",
+        "source": "RAVDESS"
+    },
+    {
+        "file": "ravdess_Actor_14_03-01-05-02-01-01-14.wav",
+        "emotion": "angry",
+        "language": "english",
+        "source": "RAVDESS"
+    },
+    {
+        "file": "ravdess_Actor_14_03-01-05-01-02-01-14.wav",
+        "emotion": "angry",
+        "language": "english",
+        "source": "RAVDESS"
+    },
+    {
+        "file": "ravdess_Actor_14_03-01-01-01-02-02-14.wav",
+        "emotion": "neutral",
+        "language": "english",
+        "source": "RAVDESS"
+    },
+    {
+        "file": "ravdess_Actor_14_03-01-03-01-01-02-14.wav",
+        "emotion": "happy",
+        "language": "english",
+        "source": "RAVDESS"
+    },
+    {
+        "file": "ravdess_Actor_14_03-01-03-02-02-02-14.wav",
+        "emotion": "happy",
+        "language": "english",
+        "source": "RAVDESS"
+    },
+    {
+        "file": "ravdess_Actor_14_03-01-01-01-01-01-14.wav",
+        "emotion": "neutral",
+        "language": "english",
+        "source": "RAVDESS"
+    },
+    {
+        "file": "ravdess_Actor_14_03-01-03-01-02-01-14.wav",
+        "emotion": "happy",
+        "language": "english",
+        "source": "RAVDESS"
+    },
+    {
+        "file": "ravdess_Actor_14_03-01-03-02-01-01-14.wav",
+        "emotion": "happy",
+        "language": "english",
+        "source": "RAVDESS"
+    },
+    {
+        "file": "ravdess_Actor_14_03-01-04-02-01-01-14.wav",
+        "emotion": "sad",
+        "language": "english",
+        "source": "RAVDESS"
+    },
+    {
+        "file": "ravdess_Actor_14_03-01-04-01-02-01-14.wav",
+        "emotion": "sad",
+        "language": "english",
+        "source": "RAVDESS"
+    },
+    {
+        "file": "ravdess_Actor_14_03-01-05-02-02-02-14.wav",
+        "emotion": "angry",
+        "language": "english",
+        "source": "RAVDESS"
+    },
+    {
+        "file": "ravdess_Actor_14_03-01-05-01-01-02-14.wav",
+        "emotion": "angry",
+        "language": "english",
+        "source": "RAVDESS"
+    },
+    {
+        "file": "ravdess_Actor_14_03-01-03-02-02-01-14.wav",
+        "emotion": "happy",
+        "language": "english",
+        "source": "RAVDESS"
+    },
+    {
+        "file": "ravdess_Actor_14_03-01-03-01-01-01-14.wav",
+        "emotion": "happy",
+        "language": "english",
+        "source": "RAVDESS"
+    },
+    {
+        "file": "ravdess_Actor_14_03-01-01-01-02-01-14.wav",
+        "emotion": "neutral",
+        "language": "english",
+        "source": "RAVDESS"
+    },
+    {
+        "file": "ravdess_Actor_14_03-01-05-01-02-02-14.wav",
+        "emotion": "angry",
+        "language": "english",
+        "source": "RAVDESS"
+    },
+    {
+        "file": "ravdess_Actor_14_03-01-05-02-01-02-14.wav",
+        "emotion": "angry",
+        "language": "english",
+        "source": "RAVDESS"
+    },
+    {
+        "file": "ravdess_Actor_14_03-01-04-01-01-01-14.wav",
+        "emotion": "sad",
+        "language": "english",
+        "source": "RAVDESS"
+    },
+    {
+        "file": "ravdess_Actor_14_03-01-04-02-02-01-14.wav",
+        "emotion": "sad",
+        "language": "english",
+        "source": "RAVDESS"
+    },
+    {
+        "file": "ravdess_Actor_14_03-01-05-01-01-01-14.wav",
+        "emotion": "angry",
+        "language": "english",
+        "source": "RAVDESS"
+    },
+    {
+        "file": "ravdess_Actor_14_03-01-05-02-02-01-14.wav",
+        "emotion": "angry",
+        "language": "english",
+        "source": "RAVDESS"
+    },
+    {
+        "file": "ravdess_Actor_14_03-01-04-01-02-02-14.wav",
+        "emotion": "sad",
+        "language": "english",
+        "source": "RAVDESS"
+    },
+    {
+        "file": "ravdess_Actor_14_03-01-04-02-01-02-14.wav",
+        "emotion": "sad",
+        "language": "english",
+        "source": "RAVDESS"
+    },
+    {
+        "file": "ravdess_Actor_14_03-01-03-02-01-02-14.wav",
+        "emotion": "happy",
+        "language": "english",
+        "source": "RAVDESS"
+    },
+    {
+        "file": "ravdess_Actor_14_03-01-03-01-02-02-14.wav",
+        "emotion": "happy",
+        "language": "english",
+        "source": "RAVDESS"
+    },
+    {
+        "file": "ravdess_Actor_14_03-01-01-01-01-02-14.wav",
+        "emotion": "neutral",
+        "language": "english",
+        "source": "RAVDESS"
+    },
+    {
+        "file": "ravdess_Actor_15_03-01-05-01-02-01-15.wav",
+        "emotion": "angry",
+        "language": "english",
+        "source": "RAVDESS"
+    },
+    {
+        "file": "ravdess_Actor_15_03-01-05-02-01-01-15.wav",
+        "emotion": "angry",
+        "language": "english",
+        "source": "RAVDESS"
+    },
+    {
+        "file": "ravdess_Actor_15_03-01-04-01-01-02-15.wav",
+        "emotion": "sad",
+        "language": "english",
+        "source": "RAVDESS"
+    },
+    {
+        "file": "ravdess_Actor_15_03-01-04-02-02-02-15.wav",
+        "emotion": "sad",
+        "language": "english",
+        "source": "RAVDESS"
+    },
+    {
+        "file": "ravdess_Actor_15_03-01-03-02-02-02-15.wav",
+        "emotion": "happy",
+        "language": "english",
+        "source": "RAVDESS"
+    },
+    {
+        "file": "ravdess_Actor_15_03-01-03-01-01-02-15.wav",
+        "emotion": "happy",
+        "language": "english",
+        "source": "RAVDESS"
+    },
+    {
+        "file": "ravdess_Actor_15_03-01-01-01-02-02-15.wav",
+        "emotion": "neutral",
+        "language": "english",
+        "source": "RAVDESS"
+    },
+    {
+        "file": "ravdess_Actor_15_03-01-03-02-01-01-15.wav",
+        "emotion": "happy",
+        "language": "english",
+        "source": "RAVDESS"
+    },
+    {
+        "file": "ravdess_Actor_15_03-01-03-01-02-01-15.wav",
+        "emotion": "happy",
+        "language": "english",
+        "source": "RAVDESS"
+    },
+    {
+        "file": "ravdess_Actor_15_03-01-01-01-01-01-15.wav",
+        "emotion": "neutral",
+        "language": "english",
+        "source": "RAVDESS"
+    },
+    {
+        "file": "ravdess_Actor_15_03-01-05-01-01-02-15.wav",
+        "emotion": "angry",
+        "language": "english",
+        "source": "RAVDESS"
+    },
+    {
+        "file": "ravdess_Actor_15_03-01-05-02-02-02-15.wav",
+        "emotion": "angry",
+        "language": "english",
+        "source": "RAVDESS"
+    },
+    {
+        "file": "ravdess_Actor_15_03-01-04-01-02-01-15.wav",
+        "emotion": "sad",
+        "language": "english",
+        "source": "RAVDESS"
+    },
+    {
+        "file": "ravdess_Actor_15_03-01-04-02-01-01-15.wav",
+        "emotion": "sad",
+        "language": "english",
+        "source": "RAVDESS"
+    },
+    {
+        "file": "ravdess_Actor_15_03-01-01-01-02-01-15.wav",
+        "emotion": "neutral",
+        "language": "english",
+        "source": "RAVDESS"
+    },
+    {
+        "file": "ravdess_Actor_15_03-01-03-01-01-01-15.wav",
+        "emotion": "happy",
+        "language": "english",
+        "source": "RAVDESS"
+    },
+    {
+        "file": "ravdess_Actor_15_03-01-03-02-02-01-15.wav",
+        "emotion": "happy",
+        "language": "english",
+        "source": "RAVDESS"
+    },
+    {
+        "file": "ravdess_Actor_15_03-01-04-02-02-01-15.wav",
+        "emotion": "sad",
+        "language": "english",
+        "source": "RAVDESS"
+    },
+    {
+        "file": "ravdess_Actor_15_03-01-04-01-01-01-15.wav",
+        "emotion": "sad",
+        "language": "english",
+        "source": "RAVDESS"
+    },
+    {
+        "file": "ravdess_Actor_15_03-01-05-02-01-02-15.wav",
+        "emotion": "angry",
+        "language": "english",
+        "source": "RAVDESS"
+    },
+    {
+        "file": "ravdess_Actor_15_03-01-05-01-02-02-15.wav",
+        "emotion": "angry",
+        "language": "english",
+        "source": "RAVDESS"
+    },
+    {
+        "file": "ravdess_Actor_15_03-01-04-02-01-02-15.wav",
+        "emotion": "sad",
+        "language": "english",
+        "source": "RAVDESS"
+    },
+    {
+        "file": "ravdess_Actor_15_03-01-04-01-02-02-15.wav",
+        "emotion": "sad",
+        "language": "english",
+        "source": "RAVDESS"
+    },
+    {
+        "file": "ravdess_Actor_15_03-01-05-02-02-01-15.wav",
+        "emotion": "angry",
+        "language": "english",
+        "source": "RAVDESS"
+    },
+    {
+        "file": "ravdess_Actor_15_03-01-05-01-01-01-15.wav",
+        "emotion": "angry",
+        "language": "english",
+        "source": "RAVDESS"
+    },
+    {
+        "file": "ravdess_Actor_15_03-01-01-01-01-02-15.wav",
+        "emotion": "neutral",
+        "language": "english",
+        "source": "RAVDESS"
+    },
+    {
+        "file": "ravdess_Actor_15_03-01-03-01-02-02-15.wav",
+        "emotion": "happy",
+        "language": "english",
+        "source": "RAVDESS"
+    },
+    {
+        "file": "ravdess_Actor_15_03-01-03-02-01-02-15.wav",
+        "emotion": "happy",
+        "language": "english",
+        "source": "RAVDESS"
+    },
+    {
+        "file": "ravdess_Actor_16_03-01-05-01-02-01-16.wav",
+        "emotion": "angry",
+        "language": "english",
+        "source": "RAVDESS"
+    },
+    {
+        "file": "ravdess_Actor_16_03-01-05-02-01-01-16.wav",
+        "emotion": "angry",
+        "language": "english",
+        "source": "RAVDESS"
+    },
+    {
+        "file": "ravdess_Actor_16_03-01-04-01-01-02-16.wav",
+        "emotion": "sad",
+        "language": "english",
+        "source": "RAVDESS"
+    },
+    {
+        "file": "ravdess_Actor_16_03-01-04-02-02-02-16.wav",
+        "emotion": "sad",
+        "language": "english",
+        "source": "RAVDESS"
+    },
+    {
+        "file": "ravdess_Actor_16_03-01-03-02-02-02-16.wav",
+        "emotion": "happy",
+        "language": "english",
+        "source": "RAVDESS"
+    },
+    {
+        "file": "ravdess_Actor_16_03-01-03-01-01-02-16.wav",
+        "emotion": "happy",
+        "language": "english",
+        "source": "RAVDESS"
+    },
+    {
+        "file": "ravdess_Actor_16_03-01-01-01-02-02-16.wav",
+        "emotion": "neutral",
+        "language": "english",
+        "source": "RAVDESS"
+    },
+    {
+        "file": "ravdess_Actor_16_03-01-03-02-01-01-16.wav",
+        "emotion": "happy",
+        "language": "english",
+        "source": "RAVDESS"
+    },
+    {
+        "file": "ravdess_Actor_16_03-01-03-01-02-01-16.wav",
+        "emotion": "happy",
+        "language": "english",
+        "source": "RAVDESS"
+    },
+    {
+        "file": "ravdess_Actor_16_03-01-01-01-01-01-16.wav",
+        "emotion": "neutral",
+        "language": "english",
+        "source": "RAVDESS"
+    },
+    {
+        "file": "ravdess_Actor_16_03-01-05-01-01-02-16.wav",
+        "emotion": "angry",
+        "language": "english",
+        "source": "RAVDESS"
+    },
+    {
+        "file": "ravdess_Actor_16_03-01-05-02-02-02-16.wav",
+        "emotion": "angry",
+        "language": "english",
+        "source": "RAVDESS"
+    },
+    {
+        "file": "ravdess_Actor_16_03-01-04-01-02-01-16.wav",
+        "emotion": "sad",
+        "language": "english",
+        "source": "RAVDESS"
+    },
+    {
+        "file": "ravdess_Actor_16_03-01-04-02-01-01-16.wav",
+        "emotion": "sad",
+        "language": "english",
+        "source": "RAVDESS"
+    },
+    {
+        "file": "ravdess_Actor_16_03-01-01-01-02-01-16.wav",
+        "emotion": "neutral",
+        "language": "english",
+        "source": "RAVDESS"
+    },
+    {
+        "file": "ravdess_Actor_16_03-01-03-01-01-01-16.wav",
+        "emotion": "happy",
+        "language": "english",
+        "source": "RAVDESS"
+    },
+    {
+        "file": "ravdess_Actor_16_03-01-03-02-02-01-16.wav",
+        "emotion": "happy",
+        "language": "english",
+        "source": "RAVDESS"
+    },
+    {
+        "file": "ravdess_Actor_16_03-01-04-02-02-01-16.wav",
+        "emotion": "sad",
+        "language": "english",
+        "source": "RAVDESS"
+    },
+    {
+        "file": "ravdess_Actor_16_03-01-04-01-01-01-16.wav",
+        "emotion": "sad",
+        "language": "english",
+        "source": "RAVDESS"
+    },
+    {
+        "file": "ravdess_Actor_16_03-01-05-02-01-02-16.wav",
+        "emotion": "angry",
+        "language": "english",
+        "source": "RAVDESS"
+    },
+    {
+        "file": "ravdess_Actor_16_03-01-05-01-02-02-16.wav",
+        "emotion": "angry",
+        "language": "english",
+        "source": "RAVDESS"
+    },
+    {
+        "file": "ravdess_Actor_16_03-01-04-02-01-02-16.wav",
+        "emotion": "sad",
+        "language": "english",
+        "source": "RAVDESS"
+    },
+    {
+        "file": "ravdess_Actor_16_03-01-04-01-02-02-16.wav",
+        "emotion": "sad",
+        "language": "english",
+        "source": "RAVDESS"
+    },
+    {
+        "file": "ravdess_Actor_16_03-01-05-02-02-01-16.wav",
+        "emotion": "angry",
+        "language": "english",
+        "source": "RAVDESS"
+    },
+    {
+        "file": "ravdess_Actor_16_03-01-05-01-01-01-16.wav",
+        "emotion": "angry",
+        "language": "english",
+        "source": "RAVDESS"
+    },
+    {
+        "file": "ravdess_Actor_16_03-01-01-01-01-02-16.wav",
+        "emotion": "neutral",
+        "language": "english",
+        "source": "RAVDESS"
+    },
+    {
+        "file": "ravdess_Actor_16_03-01-03-01-02-02-16.wav",
+        "emotion": "happy",
+        "language": "english",
+        "source": "RAVDESS"
+    },
+    {
+        "file": "ravdess_Actor_16_03-01-03-02-01-02-16.wav",
+        "emotion": "happy",
+        "language": "english",
+        "source": "RAVDESS"
+    },
+    {
+        "file": "ravdess_Actor_17_03-01-04-02-02-02-17.wav",
+        "emotion": "sad",
+        "language": "english",
+        "source": "RAVDESS"
+    },
+    {
+        "file": "ravdess_Actor_17_03-01-04-01-01-02-17.wav",
+        "emotion": "sad",
+        "language": "english",
+        "source": "RAVDESS"
+    },
+    {
+        "file": "ravdess_Actor_17_03-01-05-02-01-01-17.wav",
+        "emotion": "angry",
+        "language": "english",
+        "source": "RAVDESS"
+    },
+    {
+        "file": "ravdess_Actor_17_03-01-05-01-02-01-17.wav",
+        "emotion": "angry",
+        "language": "english",
+        "source": "RAVDESS"
+    },
+    {
+        "file": "ravdess_Actor_17_03-01-01-01-02-02-17.wav",
+        "emotion": "neutral",
+        "language": "english",
+        "source": "RAVDESS"
+    },
+    {
+        "file": "ravdess_Actor_17_03-01-03-01-01-02-17.wav",
+        "emotion": "happy",
+        "language": "english",
+        "source": "RAVDESS"
+    },
+    {
+        "file": "ravdess_Actor_17_03-01-03-02-02-02-17.wav",
+        "emotion": "happy",
+        "language": "english",
+        "source": "RAVDESS"
+    },
+    {
+        "file": "ravdess_Actor_17_03-01-01-01-01-01-17.wav",
+        "emotion": "neutral",
+        "language": "english",
+        "source": "RAVDESS"
+    },
+    {
+        "file": "ravdess_Actor_17_03-01-03-01-02-01-17.wav",
+        "emotion": "happy",
+        "language": "english",
+        "source": "RAVDESS"
+    },
+    {
+        "file": "ravdess_Actor_17_03-01-03-02-01-01-17.wav",
+        "emotion": "happy",
+        "language": "english",
+        "source": "RAVDESS"
+    },
+    {
+        "file": "ravdess_Actor_17_03-01-04-02-01-01-17.wav",
+        "emotion": "sad",
+        "language": "english",
+        "source": "RAVDESS"
+    },
+    {
+        "file": "ravdess_Actor_17_03-01-04-01-02-01-17.wav",
+        "emotion": "sad",
+        "language": "english",
+        "source": "RAVDESS"
+    },
+    {
+        "file": "ravdess_Actor_17_03-01-05-02-02-02-17.wav",
+        "emotion": "angry",
+        "language": "english",
+        "source": "RAVDESS"
+    },
+    {
+        "file": "ravdess_Actor_17_03-01-05-01-01-02-17.wav",
+        "emotion": "angry",
+        "language": "english",
+        "source": "RAVDESS"
+    },
+    {
+        "file": "ravdess_Actor_17_03-01-03-02-02-01-17.wav",
+        "emotion": "happy",
+        "language": "english",
+        "source": "RAVDESS"
+    },
+    {
+        "file": "ravdess_Actor_17_03-01-03-01-01-01-17.wav",
+        "emotion": "happy",
+        "language": "english",
+        "source": "RAVDESS"
+    },
+    {
+        "file": "ravdess_Actor_17_03-01-01-01-02-01-17.wav",
+        "emotion": "neutral",
+        "language": "english",
+        "source": "RAVDESS"
+    },
+    {
+        "file": "ravdess_Actor_17_03-01-05-01-02-02-17.wav",
+        "emotion": "angry",
+        "language": "english",
+        "source": "RAVDESS"
+    },
+    {
+        "file": "ravdess_Actor_17_03-01-05-02-01-02-17.wav",
+        "emotion": "angry",
+        "language": "english",
+        "source": "RAVDESS"
+    },
+    {
+        "file": "ravdess_Actor_17_03-01-04-01-01-01-17.wav",
+        "emotion": "sad",
+        "language": "english",
+        "source": "RAVDESS"
+    },
+    {
+        "file": "ravdess_Actor_17_03-01-04-02-02-01-17.wav",
+        "emotion": "sad",
+        "language": "english",
+        "source": "RAVDESS"
+    },
+    {
+        "file": "ravdess_Actor_17_03-01-05-01-01-01-17.wav",
+        "emotion": "angry",
+        "language": "english",
+        "source": "RAVDESS"
+    },
+    {
+        "file": "ravdess_Actor_17_03-01-05-02-02-01-17.wav",
+        "emotion": "angry",
+        "language": "english",
+        "source": "RAVDESS"
+    },
+    {
+        "file": "ravdess_Actor_17_03-01-04-01-02-02-17.wav",
+        "emotion": "sad",
+        "language": "english",
+        "source": "RAVDESS"
+    },
+    {
+        "file": "ravdess_Actor_17_03-01-04-02-01-02-17.wav",
+        "emotion": "sad",
+        "language": "english",
+        "source": "RAVDESS"
+    },
+    {
+        "file": "ravdess_Actor_17_03-01-03-02-01-02-17.wav",
+        "emotion": "happy",
+        "language": "english",
+        "source": "RAVDESS"
+    },
+    {
+        "file": "ravdess_Actor_17_03-01-03-01-02-02-17.wav",
+        "emotion": "happy",
+        "language": "english",
+        "source": "RAVDESS"
+    },
+    {
+        "file": "ravdess_Actor_17_03-01-01-01-01-02-17.wav",
+        "emotion": "neutral",
+        "language": "english",
+        "source": "RAVDESS"
+    },
+    {
+        "file": "ravdess_Actor_18_03-01-03-02-01-02-18.wav",
+        "emotion": "happy",
+        "language": "english",
+        "source": "RAVDESS"
+    },
+    {
+        "file": "ravdess_Actor_18_03-01-03-01-02-02-18.wav",
+        "emotion": "happy",
+        "language": "english",
+        "source": "RAVDESS"
+    },
+    {
+        "file": "ravdess_Actor_18_03-01-01-01-01-02-18.wav",
+        "emotion": "neutral",
+        "language": "english",
+        "source": "RAVDESS"
+    },
+    {
+        "file": "ravdess_Actor_18_03-01-05-01-01-01-18.wav",
+        "emotion": "angry",
+        "language": "english",
+        "source": "RAVDESS"
+    },
+    {
+        "file": "ravdess_Actor_18_03-01-05-02-02-01-18.wav",
+        "emotion": "angry",
+        "language": "english",
+        "source": "RAVDESS"
+    },
+    {
+        "file": "ravdess_Actor_18_03-01-04-01-02-02-18.wav",
+        "emotion": "sad",
+        "language": "english",
+        "source": "RAVDESS"
+    },
+    {
+        "file": "ravdess_Actor_18_03-01-04-02-01-02-18.wav",
+        "emotion": "sad",
+        "language": "english",
+        "source": "RAVDESS"
+    },
+    {
+        "file": "ravdess_Actor_18_03-01-05-01-02-02-18.wav",
+        "emotion": "angry",
+        "language": "english",
+        "source": "RAVDESS"
+    },
+    {
+        "file": "ravdess_Actor_18_03-01-05-02-01-02-18.wav",
+        "emotion": "angry",
+        "language": "english",
+        "source": "RAVDESS"
+    },
+    {
+        "file": "ravdess_Actor_18_03-01-04-01-01-01-18.wav",
+        "emotion": "sad",
+        "language": "english",
+        "source": "RAVDESS"
+    },
+    {
+        "file": "ravdess_Actor_18_03-01-04-02-02-01-18.wav",
+        "emotion": "sad",
+        "language": "english",
+        "source": "RAVDESS"
+    },
+    {
+        "file": "ravdess_Actor_18_03-01-03-02-02-01-18.wav",
+        "emotion": "happy",
+        "language": "english",
+        "source": "RAVDESS"
+    },
+    {
+        "file": "ravdess_Actor_18_03-01-03-01-01-01-18.wav",
+        "emotion": "happy",
+        "language": "english",
+        "source": "RAVDESS"
+    },
+    {
+        "file": "ravdess_Actor_18_03-01-01-01-02-01-18.wav",
+        "emotion": "neutral",
+        "language": "english",
+        "source": "RAVDESS"
+    },
+    {
+        "file": "ravdess_Actor_18_03-01-04-02-01-01-18.wav",
+        "emotion": "sad",
+        "language": "english",
+        "source": "RAVDESS"
+    },
+    {
+        "file": "ravdess_Actor_18_03-01-04-01-02-01-18.wav",
+        "emotion": "sad",
+        "language": "english",
+        "source": "RAVDESS"
+    },
+    {
+        "file": "ravdess_Actor_18_03-01-05-02-02-02-18.wav",
+        "emotion": "angry",
+        "language": "english",
+        "source": "RAVDESS"
+    },
+    {
+        "file": "ravdess_Actor_18_03-01-05-01-01-02-18.wav",
+        "emotion": "angry",
+        "language": "english",
+        "source": "RAVDESS"
+    },
+    {
+        "file": "ravdess_Actor_18_03-01-01-01-01-01-18.wav",
+        "emotion": "neutral",
+        "language": "english",
+        "source": "RAVDESS"
+    },
+    {
+        "file": "ravdess_Actor_18_03-01-03-01-02-01-18.wav",
+        "emotion": "happy",
+        "language": "english",
+        "source": "RAVDESS"
+    },
+    {
+        "file": "ravdess_Actor_18_03-01-03-02-01-01-18.wav",
+        "emotion": "happy",
+        "language": "english",
+        "source": "RAVDESS"
+    },
+    {
+        "file": "ravdess_Actor_18_03-01-01-01-02-02-18.wav",
+        "emotion": "neutral",
+        "language": "english",
+        "source": "RAVDESS"
+    },
+    {
+        "file": "ravdess_Actor_18_03-01-03-01-01-02-18.wav",
+        "emotion": "happy",
+        "language": "english",
+        "source": "RAVDESS"
+    },
+    {
+        "file": "ravdess_Actor_18_03-01-03-02-02-02-18.wav",
+        "emotion": "happy",
+        "language": "english",
+        "source": "RAVDESS"
+    },
+    {
+        "file": "ravdess_Actor_18_03-01-04-02-02-02-18.wav",
+        "emotion": "sad",
+        "language": "english",
+        "source": "RAVDESS"
+    },
+    {
+        "file": "ravdess_Actor_18_03-01-04-01-01-02-18.wav",
+        "emotion": "sad",
+        "language": "english",
+        "source": "RAVDESS"
+    },
+    {
+        "file": "ravdess_Actor_18_03-01-05-02-01-01-18.wav",
+        "emotion": "angry",
+        "language": "english",
+        "source": "RAVDESS"
+    },
+    {
+        "file": "ravdess_Actor_18_03-01-05-01-02-01-18.wav",
+        "emotion": "angry",
+        "language": "english",
+        "source": "RAVDESS"
+    },
+    {
+        "file": "ravdess_Actor_19_03-01-01-01-01-02-19.wav",
+        "emotion": "neutral",
+        "language": "english",
+        "source": "RAVDESS"
+    },
+    {
+        "file": "ravdess_Actor_19_03-01-03-01-02-02-19.wav",
+        "emotion": "happy",
+        "language": "english",
+        "source": "RAVDESS"
+    },
+    {
+        "file": "ravdess_Actor_19_03-01-03-02-01-02-19.wav",
+        "emotion": "happy",
+        "language": "english",
+        "source": "RAVDESS"
+    },
+    {
+        "file": "ravdess_Actor_19_03-01-04-02-01-02-19.wav",
+        "emotion": "sad",
+        "language": "english",
+        "source": "RAVDESS"
+    },
+    {
+        "file": "ravdess_Actor_19_03-01-04-01-02-02-19.wav",
+        "emotion": "sad",
+        "language": "english",
+        "source": "RAVDESS"
+    },
+    {
+        "file": "ravdess_Actor_19_03-01-05-02-02-01-19.wav",
+        "emotion": "angry",
+        "language": "english",
+        "source": "RAVDESS"
+    },
+    {
+        "file": "ravdess_Actor_19_03-01-05-01-01-01-19.wav",
+        "emotion": "angry",
+        "language": "english",
+        "source": "RAVDESS"
+    },
+    {
+        "file": "ravdess_Actor_19_03-01-04-02-02-01-19.wav",
+        "emotion": "sad",
+        "language": "english",
+        "source": "RAVDESS"
+    },
+    {
+        "file": "ravdess_Actor_19_03-01-04-01-01-01-19.wav",
+        "emotion": "sad",
+        "language": "english",
+        "source": "RAVDESS"
+    },
+    {
+        "file": "ravdess_Actor_19_03-01-05-02-01-02-19.wav",
+        "emotion": "angry",
+        "language": "english",
+        "source": "RAVDESS"
+    },
+    {
+        "file": "ravdess_Actor_19_03-01-05-01-02-02-19.wav",
+        "emotion": "angry",
+        "language": "english",
+        "source": "RAVDESS"
+    },
+    {
+        "file": "ravdess_Actor_19_03-01-01-01-02-01-19.wav",
+        "emotion": "neutral",
+        "language": "english",
+        "source": "RAVDESS"
+    },
+    {
+        "file": "ravdess_Actor_19_03-01-03-01-01-01-19.wav",
+        "emotion": "happy",
+        "language": "english",
+        "source": "RAVDESS"
+    },
+    {
+        "file": "ravdess_Actor_19_03-01-03-02-02-01-19.wav",
+        "emotion": "happy",
+        "language": "english",
+        "source": "RAVDESS"
+    },
+    {
+        "file": "ravdess_Actor_19_03-01-05-01-01-02-19.wav",
+        "emotion": "angry",
+        "language": "english",
+        "source": "RAVDESS"
+    },
+    {
+        "file": "ravdess_Actor_19_03-01-05-02-02-02-19.wav",
+        "emotion": "angry",
+        "language": "english",
+        "source": "RAVDESS"
+    },
+    {
+        "file": "ravdess_Actor_19_03-01-04-01-02-01-19.wav",
+        "emotion": "sad",
+        "language": "english",
+        "source": "RAVDESS"
+    },
+    {
+        "file": "ravdess_Actor_19_03-01-04-02-01-01-19.wav",
+        "emotion": "sad",
+        "language": "english",
+        "source": "RAVDESS"
+    },
+    {
+        "file": "ravdess_Actor_19_03-01-03-02-01-01-19.wav",
+        "emotion": "happy",
+        "language": "english",
+        "source": "RAVDESS"
+    },
+    {
+        "file": "ravdess_Actor_19_03-01-03-01-02-01-19.wav",
+        "emotion": "happy",
+        "language": "english",
+        "source": "RAVDESS"
+    },
+    {
+        "file": "ravdess_Actor_19_03-01-01-01-01-01-19.wav",
+        "emotion": "neutral",
+        "language": "english",
+        "source": "RAVDESS"
+    },
+    {
+        "file": "ravdess_Actor_19_03-01-03-02-02-02-19.wav",
+        "emotion": "happy",
+        "language": "english",
+        "source": "RAVDESS"
+    },
+    {
+        "file": "ravdess_Actor_19_03-01-03-01-01-02-19.wav",
+        "emotion": "happy",
+        "language": "english",
+        "source": "RAVDESS"
+    },
+    {
+        "file": "ravdess_Actor_19_03-01-01-01-02-02-19.wav",
+        "emotion": "neutral",
+        "language": "english",
+        "source": "RAVDESS"
+    },
+    {
+        "file": "ravdess_Actor_19_03-01-05-01-02-01-19.wav",
+        "emotion": "angry",
+        "language": "english",
+        "source": "RAVDESS"
+    },
+    {
+        "file": "ravdess_Actor_19_03-01-05-02-01-01-19.wav",
+        "emotion": "angry",
+        "language": "english",
+        "source": "RAVDESS"
+    },
+    {
+        "file": "ravdess_Actor_19_03-01-04-01-01-02-19.wav",
+        "emotion": "sad",
+        "language": "english",
+        "source": "RAVDESS"
+    },
+    {
+        "file": "ravdess_Actor_19_03-01-04-02-02-02-19.wav",
+        "emotion": "sad",
+        "language": "english",
+        "source": "RAVDESS"
+    },
+    {
+        "file": "ravdess_Actor_20_03-01-04-02-01-02-20.wav",
+        "emotion": "sad",
+        "language": "english",
+        "source": "RAVDESS"
+    },
+    {
+        "file": "ravdess_Actor_20_03-01-04-01-02-02-20.wav",
+        "emotion": "sad",
+        "language": "english",
+        "source": "RAVDESS"
+    },
+    {
+        "file": "ravdess_Actor_20_03-01-05-02-02-01-20.wav",
+        "emotion": "angry",
+        "language": "english",
+        "source": "RAVDESS"
+    },
+    {
+        "file": "ravdess_Actor_20_03-01-05-01-01-01-20.wav",
+        "emotion": "angry",
+        "language": "english",
+        "source": "RAVDESS"
+    },
+    {
+        "file": "ravdess_Actor_20_03-01-01-01-01-02-20.wav",
+        "emotion": "neutral",
+        "language": "english",
+        "source": "RAVDESS"
+    },
+    {
+        "file": "ravdess_Actor_20_03-01-03-01-02-02-20.wav",
+        "emotion": "happy",
+        "language": "english",
+        "source": "RAVDESS"
+    },
+    {
+        "file": "ravdess_Actor_20_03-01-03-02-01-02-20.wav",
+        "emotion": "happy",
+        "language": "english",
+        "source": "RAVDESS"
+    },
+    {
+        "file": "ravdess_Actor_20_03-01-01-01-02-01-20.wav",
+        "emotion": "neutral",
+        "language": "english",
+        "source": "RAVDESS"
+    },
+    {
+        "file": "ravdess_Actor_20_03-01-03-01-01-01-20.wav",
+        "emotion": "happy",
+        "language": "english",
+        "source": "RAVDESS"
+    },
+    {
+        "file": "ravdess_Actor_20_03-01-03-02-02-01-20.wav",
+        "emotion": "happy",
+        "language": "english",
+        "source": "RAVDESS"
+    },
+    {
+        "file": "ravdess_Actor_20_03-01-04-02-02-01-20.wav",
+        "emotion": "sad",
+        "language": "english",
+        "source": "RAVDESS"
+    },
+    {
+        "file": "ravdess_Actor_20_03-01-04-01-01-01-20.wav",
+        "emotion": "sad",
+        "language": "english",
+        "source": "RAVDESS"
+    },
+    {
+        "file": "ravdess_Actor_20_03-01-05-02-01-02-20.wav",
+        "emotion": "angry",
+        "language": "english",
+        "source": "RAVDESS"
+    },
+    {
+        "file": "ravdess_Actor_20_03-01-05-01-02-02-20.wav",
+        "emotion": "angry",
+        "language": "english",
+        "source": "RAVDESS"
+    },
+    {
+        "file": "ravdess_Actor_20_03-01-03-02-01-01-20.wav",
+        "emotion": "happy",
+        "language": "english",
+        "source": "RAVDESS"
+    },
+    {
+        "file": "ravdess_Actor_20_03-01-03-01-02-01-20.wav",
+        "emotion": "happy",
+        "language": "english",
+        "source": "RAVDESS"
+    },
+    {
+        "file": "ravdess_Actor_20_03-01-01-01-01-01-20.wav",
+        "emotion": "neutral",
+        "language": "english",
+        "source": "RAVDESS"
+    },
+    {
+        "file": "ravdess_Actor_20_03-01-05-01-01-02-20.wav",
+        "emotion": "angry",
+        "language": "english",
+        "source": "RAVDESS"
+    },
+    {
+        "file": "ravdess_Actor_20_03-01-05-02-02-02-20.wav",
+        "emotion": "angry",
+        "language": "english",
+        "source": "RAVDESS"
+    },
+    {
+        "file": "ravdess_Actor_20_03-01-04-01-02-01-20.wav",
+        "emotion": "sad",
+        "language": "english",
+        "source": "RAVDESS"
+    },
+    {
+        "file": "ravdess_Actor_20_03-01-04-02-01-01-20.wav",
+        "emotion": "sad",
+        "language": "english",
+        "source": "RAVDESS"
+    },
+    {
+        "file": "ravdess_Actor_20_03-01-05-01-02-01-20.wav",
+        "emotion": "angry",
+        "language": "english",
+        "source": "RAVDESS"
+    },
+    {
+        "file": "ravdess_Actor_20_03-01-05-02-01-01-20.wav",
+        "emotion": "angry",
+        "language": "english",
+        "source": "RAVDESS"
+    },
+    {
+        "file": "ravdess_Actor_20_03-01-04-01-01-02-20.wav",
+        "emotion": "sad",
+        "language": "english",
+        "source": "RAVDESS"
+    },
+    {
+        "file": "ravdess_Actor_20_03-01-04-02-02-02-20.wav",
+        "emotion": "sad",
+        "language": "english",
+        "source": "RAVDESS"
+    },
+    {
+        "file": "ravdess_Actor_20_03-01-03-02-02-02-20.wav",
+        "emotion": "happy",
+        "language": "english",
+        "source": "RAVDESS"
+    },
+    {
+        "file": "ravdess_Actor_20_03-01-03-01-01-02-20.wav",
+        "emotion": "happy",
+        "language": "english",
+        "source": "RAVDESS"
+    },
+    {
+        "file": "ravdess_Actor_20_03-01-01-01-02-02-20.wav",
+        "emotion": "neutral",
+        "language": "english",
+        "source": "RAVDESS"
+    },
+    {
+        "file": "ravdess_Actor_21_03-01-05-01-01-01-21.wav",
+        "emotion": "angry",
+        "language": "english",
+        "source": "RAVDESS"
+    },
+    {
+        "file": "ravdess_Actor_21_03-01-05-02-02-01-21.wav",
+        "emotion": "angry",
+        "language": "english",
+        "source": "RAVDESS"
+    },
+    {
+        "file": "ravdess_Actor_21_03-01-04-01-02-02-21.wav",
+        "emotion": "sad",
+        "language": "english",
+        "source": "RAVDESS"
+    },
+    {
+        "file": "ravdess_Actor_21_03-01-04-02-01-02-21.wav",
+        "emotion": "sad",
+        "language": "english",
+        "source": "RAVDESS"
+    },
+    {
+        "file": "ravdess_Actor_21_03-01-03-02-01-02-21.wav",
+        "emotion": "happy",
+        "language": "english",
+        "source": "RAVDESS"
+    },
+    {
+        "file": "ravdess_Actor_21_03-01-03-01-02-02-21.wav",
+        "emotion": "happy",
+        "language": "english",
+        "source": "RAVDESS"
+    },
+    {
+        "file": "ravdess_Actor_21_03-01-01-01-01-02-21.wav",
+        "emotion": "neutral",
+        "language": "english",
+        "source": "RAVDESS"
+    },
+    {
+        "file": "ravdess_Actor_21_03-01-03-02-02-01-21.wav",
+        "emotion": "happy",
+        "language": "english",
+        "source": "RAVDESS"
+    },
+    {
+        "file": "ravdess_Actor_21_03-01-03-01-01-01-21.wav",
+        "emotion": "happy",
+        "language": "english",
+        "source": "RAVDESS"
+    },
+    {
+        "file": "ravdess_Actor_21_03-01-01-01-02-01-21.wav",
+        "emotion": "neutral",
+        "language": "english",
+        "source": "RAVDESS"
+    },
+    {
+        "file": "ravdess_Actor_21_03-01-05-01-02-02-21.wav",
+        "emotion": "angry",
+        "language": "english",
+        "source": "RAVDESS"
+    },
+    {
+        "file": "ravdess_Actor_21_03-01-05-02-01-02-21.wav",
+        "emotion": "angry",
+        "language": "english",
+        "source": "RAVDESS"
+    },
+    {
+        "file": "ravdess_Actor_21_03-01-04-01-01-01-21.wav",
+        "emotion": "sad",
+        "language": "english",
+        "source": "RAVDESS"
+    },
+    {
+        "file": "ravdess_Actor_21_03-01-04-02-02-01-21.wav",
+        "emotion": "sad",
+        "language": "english",
+        "source": "RAVDESS"
+    },
+    {
+        "file": "ravdess_Actor_21_03-01-01-01-01-01-21.wav",
+        "emotion": "neutral",
+        "language": "english",
+        "source": "RAVDESS"
+    },
+    {
+        "file": "ravdess_Actor_21_03-01-03-01-02-01-21.wav",
+        "emotion": "happy",
+        "language": "english",
+        "source": "RAVDESS"
+    },
+    {
+        "file": "ravdess_Actor_21_03-01-03-02-01-01-21.wav",
+        "emotion": "happy",
+        "language": "english",
+        "source": "RAVDESS"
+    },
+    {
+        "file": "ravdess_Actor_21_03-01-04-02-01-01-21.wav",
+        "emotion": "sad",
+        "language": "english",
+        "source": "RAVDESS"
+    },
+    {
+        "file": "ravdess_Actor_21_03-01-04-01-02-01-21.wav",
+        "emotion": "sad",
+        "language": "english",
+        "source": "RAVDESS"
+    },
+    {
+        "file": "ravdess_Actor_21_03-01-05-02-02-02-21.wav",
+        "emotion": "angry",
+        "language": "english",
+        "source": "RAVDESS"
+    },
+    {
+        "file": "ravdess_Actor_21_03-01-05-01-01-02-21.wav",
+        "emotion": "angry",
+        "language": "english",
+        "source": "RAVDESS"
+    },
+    {
+        "file": "ravdess_Actor_21_03-01-04-02-02-02-21.wav",
+        "emotion": "sad",
+        "language": "english",
+        "source": "RAVDESS"
+    },
+    {
+        "file": "ravdess_Actor_21_03-01-04-01-01-02-21.wav",
+        "emotion": "sad",
+        "language": "english",
+        "source": "RAVDESS"
+    },
+    {
+        "file": "ravdess_Actor_21_03-01-05-02-01-01-21.wav",
+        "emotion": "angry",
+        "language": "english",
+        "source": "RAVDESS"
+    },
+    {
+        "file": "ravdess_Actor_21_03-01-05-01-02-01-21.wav",
+        "emotion": "angry",
+        "language": "english",
+        "source": "RAVDESS"
+    },
+    {
+        "file": "ravdess_Actor_21_03-01-01-01-02-02-21.wav",
+        "emotion": "neutral",
+        "language": "english",
+        "source": "RAVDESS"
+    },
+    {
+        "file": "ravdess_Actor_21_03-01-03-01-01-02-21.wav",
+        "emotion": "happy",
+        "language": "english",
+        "source": "RAVDESS"
+    },
+    {
+        "file": "ravdess_Actor_21_03-01-03-02-02-02-21.wav",
+        "emotion": "happy",
+        "language": "english",
+        "source": "RAVDESS"
+    },
+    {
+        "file": "ravdess_Actor_22_03-01-05-01-01-01-22.wav",
+        "emotion": "angry",
+        "language": "english",
+        "source": "RAVDESS"
+    },
+    {
+        "file": "ravdess_Actor_22_03-01-05-02-02-01-22.wav",
+        "emotion": "angry",
+        "language": "english",
+        "source": "RAVDESS"
+    },
+    {
+        "file": "ravdess_Actor_22_03-01-04-01-02-02-22.wav",
+        "emotion": "sad",
+        "language": "english",
+        "source": "RAVDESS"
+    },
+    {
+        "file": "ravdess_Actor_22_03-01-04-02-01-02-22.wav",
+        "emotion": "sad",
+        "language": "english",
+        "source": "RAVDESS"
+    },
+    {
+        "file": "ravdess_Actor_22_03-01-03-02-01-02-22.wav",
+        "emotion": "happy",
+        "language": "english",
+        "source": "RAVDESS"
+    },
+    {
+        "file": "ravdess_Actor_22_03-01-03-01-02-02-22.wav",
+        "emotion": "happy",
+        "language": "english",
+        "source": "RAVDESS"
+    },
+    {
+        "file": "ravdess_Actor_22_03-01-01-01-01-02-22.wav",
+        "emotion": "neutral",
+        "language": "english",
+        "source": "RAVDESS"
+    },
+    {
+        "file": "ravdess_Actor_22_03-01-03-02-02-01-22.wav",
+        "emotion": "happy",
+        "language": "english",
+        "source": "RAVDESS"
+    },
+    {
+        "file": "ravdess_Actor_22_03-01-03-01-01-01-22.wav",
+        "emotion": "happy",
+        "language": "english",
+        "source": "RAVDESS"
+    },
+    {
+        "file": "ravdess_Actor_22_03-01-01-01-02-01-22.wav",
+        "emotion": "neutral",
+        "language": "english",
+        "source": "RAVDESS"
+    },
+    {
+        "file": "ravdess_Actor_22_03-01-05-01-02-02-22.wav",
+        "emotion": "angry",
+        "language": "english",
+        "source": "RAVDESS"
+    },
+    {
+        "file": "ravdess_Actor_22_03-01-05-02-01-02-22.wav",
+        "emotion": "angry",
+        "language": "english",
+        "source": "RAVDESS"
+    },
+    {
+        "file": "ravdess_Actor_22_03-01-04-01-01-01-22.wav",
+        "emotion": "sad",
+        "language": "english",
+        "source": "RAVDESS"
+    },
+    {
+        "file": "ravdess_Actor_22_03-01-04-02-02-01-22.wav",
+        "emotion": "sad",
+        "language": "english",
+        "source": "RAVDESS"
+    },
+    {
+        "file": "ravdess_Actor_22_03-01-01-01-01-01-22.wav",
+        "emotion": "neutral",
+        "language": "english",
+        "source": "RAVDESS"
+    },
+    {
+        "file": "ravdess_Actor_22_03-01-03-01-02-01-22.wav",
+        "emotion": "happy",
+        "language": "english",
+        "source": "RAVDESS"
+    },
+    {
+        "file": "ravdess_Actor_22_03-01-03-02-01-01-22.wav",
+        "emotion": "happy",
+        "language": "english",
+        "source": "RAVDESS"
+    },
+    {
+        "file": "ravdess_Actor_22_03-01-04-02-01-01-22.wav",
+        "emotion": "sad",
+        "language": "english",
+        "source": "RAVDESS"
+    },
+    {
+        "file": "ravdess_Actor_22_03-01-04-01-02-01-22.wav",
+        "emotion": "sad",
+        "language": "english",
+        "source": "RAVDESS"
+    },
+    {
+        "file": "ravdess_Actor_22_03-01-05-02-02-02-22.wav",
+        "emotion": "angry",
+        "language": "english",
+        "source": "RAVDESS"
+    },
+    {
+        "file": "ravdess_Actor_22_03-01-05-01-01-02-22.wav",
+        "emotion": "angry",
+        "language": "english",
+        "source": "RAVDESS"
+    },
+    {
+        "file": "ravdess_Actor_22_03-01-04-02-02-02-22.wav",
+        "emotion": "sad",
+        "language": "english",
+        "source": "RAVDESS"
+    },
+    {
+        "file": "ravdess_Actor_22_03-01-04-01-01-02-22.wav",
+        "emotion": "sad",
+        "language": "english",
+        "source": "RAVDESS"
+    },
+    {
+        "file": "ravdess_Actor_22_03-01-05-02-01-01-22.wav",
+        "emotion": "angry",
+        "language": "english",
+        "source": "RAVDESS"
+    },
+    {
+        "file": "ravdess_Actor_22_03-01-05-01-02-01-22.wav",
+        "emotion": "angry",
+        "language": "english",
+        "source": "RAVDESS"
+    },
+    {
+        "file": "ravdess_Actor_22_03-01-01-01-02-02-22.wav",
+        "emotion": "neutral",
+        "language": "english",
+        "source": "RAVDESS"
+    },
+    {
+        "file": "ravdess_Actor_22_03-01-03-01-01-02-22.wav",
+        "emotion": "happy",
+        "language": "english",
+        "source": "RAVDESS"
+    },
+    {
+        "file": "ravdess_Actor_22_03-01-03-02-02-02-22.wav",
+        "emotion": "happy",
+        "language": "english",
+        "source": "RAVDESS"
+    },
+    {
+        "file": "ravdess_Actor_23_03-01-04-02-01-02-23.wav",
+        "emotion": "sad",
+        "language": "english",
+        "source": "RAVDESS"
+    },
+    {
+        "file": "ravdess_Actor_23_03-01-04-01-02-02-23.wav",
+        "emotion": "sad",
+        "language": "english",
+        "source": "RAVDESS"
+    },
+    {
+        "file": "ravdess_Actor_23_03-01-05-02-02-01-23.wav",
+        "emotion": "angry",
+        "language": "english",
+        "source": "RAVDESS"
+    },
+    {
+        "file": "ravdess_Actor_23_03-01-05-01-01-01-23.wav",
+        "emotion": "angry",
+        "language": "english",
+        "source": "RAVDESS"
+    },
+    {
+        "file": "ravdess_Actor_23_03-01-01-01-01-02-23.wav",
+        "emotion": "neutral",
+        "language": "english",
+        "source": "RAVDESS"
+    },
+    {
+        "file": "ravdess_Actor_23_03-01-03-01-02-02-23.wav",
+        "emotion": "happy",
+        "language": "english",
+        "source": "RAVDESS"
+    },
+    {
+        "file": "ravdess_Actor_23_03-01-03-02-01-02-23.wav",
+        "emotion": "happy",
+        "language": "english",
+        "source": "RAVDESS"
+    },
+    {
+        "file": "ravdess_Actor_23_03-01-01-01-02-01-23.wav",
+        "emotion": "neutral",
+        "language": "english",
+        "source": "RAVDESS"
+    },
+    {
+        "file": "ravdess_Actor_23_03-01-03-01-01-01-23.wav",
+        "emotion": "happy",
+        "language": "english",
+        "source": "RAVDESS"
+    },
+    {
+        "file": "ravdess_Actor_23_03-01-03-02-02-01-23.wav",
+        "emotion": "happy",
+        "language": "english",
+        "source": "RAVDESS"
+    },
+    {
+        "file": "ravdess_Actor_23_03-01-04-02-02-01-23.wav",
+        "emotion": "sad",
+        "language": "english",
+        "source": "RAVDESS"
+    },
+    {
+        "file": "ravdess_Actor_23_03-01-04-01-01-01-23.wav",
+        "emotion": "sad",
+        "language": "english",
+        "source": "RAVDESS"
+    },
+    {
+        "file": "ravdess_Actor_23_03-01-05-02-01-02-23.wav",
+        "emotion": "angry",
+        "language": "english",
+        "source": "RAVDESS"
+    },
+    {
+        "file": "ravdess_Actor_23_03-01-05-01-02-02-23.wav",
+        "emotion": "angry",
+        "language": "english",
+        "source": "RAVDESS"
+    },
+    {
+        "file": "ravdess_Actor_23_03-01-03-02-01-01-23.wav",
+        "emotion": "happy",
+        "language": "english",
+        "source": "RAVDESS"
+    },
+    {
+        "file": "ravdess_Actor_23_03-01-03-01-02-01-23.wav",
+        "emotion": "happy",
+        "language": "english",
+        "source": "RAVDESS"
+    },
+    {
+        "file": "ravdess_Actor_23_03-01-01-01-01-01-23.wav",
+        "emotion": "neutral",
+        "language": "english",
+        "source": "RAVDESS"
+    },
+    {
+        "file": "ravdess_Actor_23_03-01-05-01-01-02-23.wav",
+        "emotion": "angry",
+        "language": "english",
+        "source": "RAVDESS"
+    },
+    {
+        "file": "ravdess_Actor_23_03-01-05-02-02-02-23.wav",
+        "emotion": "angry",
+        "language": "english",
+        "source": "RAVDESS"
+    },
+    {
+        "file": "ravdess_Actor_23_03-01-04-01-02-01-23.wav",
+        "emotion": "sad",
+        "language": "english",
+        "source": "RAVDESS"
+    },
+    {
+        "file": "ravdess_Actor_23_03-01-04-02-01-01-23.wav",
+        "emotion": "sad",
+        "language": "english",
+        "source": "RAVDESS"
+    },
+    {
+        "file": "ravdess_Actor_23_03-01-05-01-02-01-23.wav",
+        "emotion": "angry",
+        "language": "english",
+        "source": "RAVDESS"
+    },
+    {
+        "file": "ravdess_Actor_23_03-01-05-02-01-01-23.wav",
+        "emotion": "angry",
+        "language": "english",
+        "source": "RAVDESS"
+    },
+    {
+        "file": "ravdess_Actor_23_03-01-04-01-01-02-23.wav",
+        "emotion": "sad",
+        "language": "english",
+        "source": "RAVDESS"
+    },
+    {
+        "file": "ravdess_Actor_23_03-01-04-02-02-02-23.wav",
+        "emotion": "sad",
+        "language": "english",
+        "source": "RAVDESS"
+    },
+    {
+        "file": "ravdess_Actor_23_03-01-03-02-02-02-23.wav",
+        "emotion": "happy",
+        "language": "english",
+        "source": "RAVDESS"
+    },
+    {
+        "file": "ravdess_Actor_23_03-01-03-01-01-02-23.wav",
+        "emotion": "happy",
+        "language": "english",
+        "source": "RAVDESS"
+    },
+    {
+        "file": "ravdess_Actor_23_03-01-01-01-02-02-23.wav",
+        "emotion": "neutral",
+        "language": "english",
+        "source": "RAVDESS"
+    },
+    {
+        "file": "ravdess_Actor_24_03-01-03-02-01-02-24.wav",
+        "emotion": "happy",
+        "language": "english",
+        "source": "RAVDESS"
+    },
+    {
+        "file": "ravdess_Actor_24_03-01-03-01-02-02-24.wav",
+        "emotion": "happy",
+        "language": "english",
+        "source": "RAVDESS"
+    },
+    {
+        "file": "ravdess_Actor_24_03-01-01-01-01-02-24.wav",
+        "emotion": "neutral",
+        "language": "english",
+        "source": "RAVDESS"
+    },
+    {
+        "file": "ravdess_Actor_24_03-01-05-01-01-01-24.wav",
+        "emotion": "angry",
+        "language": "english",
+        "source": "RAVDESS"
+    },
+    {
+        "file": "ravdess_Actor_24_03-01-05-02-02-01-24.wav",
+        "emotion": "angry",
+        "language": "english",
+        "source": "RAVDESS"
+    },
+    {
+        "file": "ravdess_Actor_24_03-01-04-01-02-02-24.wav",
+        "emotion": "sad",
+        "language": "english",
+        "source": "RAVDESS"
+    },
+    {
+        "file": "ravdess_Actor_24_03-01-04-02-01-02-24.wav",
+        "emotion": "sad",
+        "language": "english",
+        "source": "RAVDESS"
+    },
+    {
+        "file": "ravdess_Actor_24_03-01-05-01-02-02-24.wav",
+        "emotion": "angry",
+        "language": "english",
+        "source": "RAVDESS"
+    },
+    {
+        "file": "ravdess_Actor_24_03-01-05-02-01-02-24.wav",
+        "emotion": "angry",
+        "language": "english",
+        "source": "RAVDESS"
+    },
+    {
+        "file": "ravdess_Actor_24_03-01-04-01-01-01-24.wav",
+        "emotion": "sad",
+        "language": "english",
+        "source": "RAVDESS"
+    },
+    {
+        "file": "ravdess_Actor_24_03-01-04-02-02-01-24.wav",
+        "emotion": "sad",
+        "language": "english",
+        "source": "RAVDESS"
+    },
+    {
+        "file": "ravdess_Actor_24_03-01-03-02-02-01-24.wav",
+        "emotion": "happy",
+        "language": "english",
+        "source": "RAVDESS"
+    },
+    {
+        "file": "ravdess_Actor_24_03-01-03-01-01-01-24.wav",
+        "emotion": "happy",
+        "language": "english",
+        "source": "RAVDESS"
+    },
+    {
+        "file": "ravdess_Actor_24_03-01-01-01-02-01-24.wav",
+        "emotion": "neutral",
+        "language": "english",
+        "source": "RAVDESS"
+    },
+    {
+        "file": "ravdess_Actor_24_03-01-04-02-01-01-24.wav",
+        "emotion": "sad",
+        "language": "english",
+        "source": "RAVDESS"
+    },
+    {
+        "file": "ravdess_Actor_24_03-01-04-01-02-01-24.wav",
+        "emotion": "sad",
+        "language": "english",
+        "source": "RAVDESS"
+    },
+    {
+        "file": "ravdess_Actor_24_03-01-05-02-02-02-24.wav",
+        "emotion": "angry",
+        "language": "english",
+        "source": "RAVDESS"
+    },
+    {
+        "file": "ravdess_Actor_24_03-01-05-01-01-02-24.wav",
+        "emotion": "angry",
+        "language": "english",
+        "source": "RAVDESS"
+    },
+    {
+        "file": "ravdess_Actor_24_03-01-01-01-01-01-24.wav",
+        "emotion": "neutral",
+        "language": "english",
+        "source": "RAVDESS"
+    },
+    {
+        "file": "ravdess_Actor_24_03-01-03-01-02-01-24.wav",
+        "emotion": "happy",
+        "language": "english",
+        "source": "RAVDESS"
+    },
+    {
+        "file": "ravdess_Actor_24_03-01-03-02-01-01-24.wav",
+        "emotion": "happy",
+        "language": "english",
+        "source": "RAVDESS"
+    },
+    {
+        "file": "ravdess_Actor_24_03-01-01-01-02-02-24.wav",
+        "emotion": "neutral",
+        "language": "english",
+        "source": "RAVDESS"
+    },
+    {
+        "file": "ravdess_Actor_24_03-01-03-01-01-02-24.wav",
+        "emotion": "happy",
+        "language": "english",
+        "source": "RAVDESS"
+    },
+    {
+        "file": "ravdess_Actor_24_03-01-03-02-02-02-24.wav",
+        "emotion": "happy",
+        "language": "english",
+        "source": "RAVDESS"
+    },
+    {
+        "file": "ravdess_Actor_24_03-01-04-02-02-02-24.wav",
+        "emotion": "sad",
+        "language": "english",
+        "source": "RAVDESS"
+    },
+    {
+        "file": "ravdess_Actor_24_03-01-04-01-01-02-24.wav",
+        "emotion": "sad",
+        "language": "english",
+        "source": "RAVDESS"
+    },
+    {
+        "file": "ravdess_Actor_24_03-01-05-02-01-01-24.wav",
+        "emotion": "angry",
+        "language": "english",
+        "source": "RAVDESS"
+    },
+    {
+        "file": "ravdess_Actor_24_03-01-05-01-02-01-24.wav",
+        "emotion": "angry",
+        "language": "english",
+        "source": "RAVDESS"
+    },
+    {
+        "file": "emodb_10a07Ad.wav",
+        "emotion": "sad",
+        "language": "german",
+        "source": "EMO-DB"
+    },
+    {
+        "file": "emodb_13a05Ea.wav",
+        "emotion": "happy",
+        "language": "german",
+        "source": "EMO-DB"
+    },
+    {
+        "file": "emodb_14a07Na.wav",
+        "emotion": "neutral",
+        "language": "german",
+        "source": "EMO-DB"
+    },
+    {
+        "file": "emodb_09a01Nb.wav",
+        "emotion": "neutral",
+        "language": "german",
+        "source": "EMO-DB"
+    },
+    {
+        "file": "emodb_16a01Fc.wav",
+        "emotion": "angry",
+        "language": "german",
+        "source": "EMO-DB"
+    },
+    {
+        "file": "emodb_14a04Ed.wav",
+        "emotion": "happy",
+        "language": "german",
+        "source": "EMO-DB"
+    },
+    {
+        "file": "emodb_11a01Ab.wav",
+        "emotion": "sad",
+        "language": "german",
+        "source": "EMO-DB"
+    },
+    {
+        "file": "emodb_09b02Na.wav",
+        "emotion": "neutral",
+        "language": "german",
+        "source": "EMO-DB"
+    },
+    {
+        "file": "emodb_03a05Nd.wav",
+        "emotion": "neutral",
+        "language": "german",
+        "source": "EMO-DB"
+    },
+    {
+        "file": "emodb_10a01Ac.wav",
+        "emotion": "sad",
+        "language": "german",
+        "source": "EMO-DB"
+    },
+    {
+        "file": "emodb_16a04Ab.wav",
+        "emotion": "sad",
+        "language": "german",
+        "source": "EMO-DB"
+    },
+    {
+        "file": "emodb_15b02Nd.wav",
+        "emotion": "neutral",
+        "language": "german",
+        "source": "EMO-DB"
+    },
+    {
+        "file": "emodb_10b02Aa.wav",
+        "emotion": "sad",
+        "language": "german",
+        "source": "EMO-DB"
+    },
+    {
+        "file": "emodb_13b03Na.wav",
+        "emotion": "neutral",
+        "language": "german",
+        "source": "EMO-DB"
+    },
+    {
+        "file": "emodb_16b03Ad.wav",
+        "emotion": "sad",
+        "language": "german",
+        "source": "EMO-DB"
+    },
+    {
+        "file": "emodb_13b01Nc.wav",
+        "emotion": "neutral",
+        "language": "german",
+        "source": "EMO-DB"
+    },
+    {
+        "file": "emodb_15a02Ea.wav",
+        "emotion": "happy",
+        "language": "german",
+        "source": "EMO-DB"
+    },
+    {
+        "file": "emodb_14a02Ea.wav",
+        "emotion": "happy",
+        "language": "german",
+        "source": "EMO-DB"
+    },
+    {
+        "file": "emodb_09b03Ed.wav",
+        "emotion": "happy",
+        "language": "german",
+        "source": "EMO-DB"
+    },
+    {
+        "file": "emodb_13a02Nc.wav",
+        "emotion": "neutral",
+        "language": "german",
+        "source": "EMO-DB"
+    },
+    {
+        "file": "emodb_15b01Ec.wav",
+        "emotion": "happy",
+        "language": "german",
+        "source": "EMO-DB"
+    },
+    {
+        "file": "emodb_08a01Na.wav",
+        "emotion": "neutral",
+        "language": "german",
+        "source": "EMO-DB"
+    },
+    {
+        "file": "emodb_11a01Aa.wav",
+        "emotion": "sad",
+        "language": "german",
+        "source": "EMO-DB"
+    },
+    {
+        "file": "emodb_08b02Nb.wav",
+        "emotion": "neutral",
+        "language": "german",
+        "source": "EMO-DB"
+    },
+    {
+        "file": "emodb_11b02Ab.wav",
+        "emotion": "sad",
+        "language": "german",
+        "source": "EMO-DB"
+    },
+    {
+        "file": "emodb_15a07Nc.wav",
+        "emotion": "neutral",
+        "language": "german",
+        "source": "EMO-DB"
+    },
+    {
+        "file": "emodb_14b01Eb.wav",
+        "emotion": "happy",
+        "language": "german",
+        "source": "EMO-DB"
+    },
+    {
+        "file": "emodb_11a05Ad.wav",
+        "emotion": "sad",
+        "language": "german",
+        "source": "EMO-DB"
+    },
+    {
+        "file": "emodb_03a01Nc.wav",
+        "emotion": "neutral",
+        "language": "german",
+        "source": "EMO-DB"
+    },
+    {
+        "file": "emodb_12a02Nb.wav",
+        "emotion": "neutral",
+        "language": "german",
+        "source": "EMO-DB"
+    },
+    {
+        "file": "emodb_15a05Na.wav",
+        "emotion": "neutral",
+        "language": "german",
+        "source": "EMO-DB"
+    },
+    {
+        "file": "emodb_14a05Na.wav",
+        "emotion": "neutral",
+        "language": "german",
+        "source": "EMO-DB"
+    },
+    {
+        "file": "emodb_03b02Na.wav",
+        "emotion": "neutral",
+        "language": "german",
+        "source": "EMO-DB"
+    },
+    {
+        "file": "emodb_09a02Ea.wav",
+        "emotion": "happy",
+        "language": "german",
+        "source": "EMO-DB"
+    },
+    {
+        "file": "emodb_14b03Ed.wav",
+        "emotion": "happy",
+        "language": "german",
+        "source": "EMO-DB"
+    },
+    {
+        "file": "emodb_16b01Aa.wav",
+        "emotion": "sad",
+        "language": "german",
+        "source": "EMO-DB"
+    },
+    {
+        "file": "emodb_11a02Fb.wav",
+        "emotion": "angry",
+        "language": "german",
+        "source": "EMO-DB"
+    },
+    {
+        "file": "emodb_12b10Ac.wav",
+        "emotion": "sad",
+        "language": "german",
+        "source": "EMO-DB"
+    },
+    {
+        "file": "emodb_14b09Fc.wav",
+        "emotion": "angry",
+        "language": "german",
+        "source": "EMO-DB"
+    },
+    {
+        "file": "emodb_10a04Fd.wav",
+        "emotion": "angry",
+        "language": "german",
+        "source": "EMO-DB"
+    },
+    {
+        "file": "emodb_11a04Fd.wav",
+        "emotion": "angry",
+        "language": "german",
+        "source": "EMO-DB"
+    },
+    {
+        "file": "emodb_14a01Na.wav",
+        "emotion": "neutral",
+        "language": "german",
+        "source": "EMO-DB"
+    },
+    {
+        "file": "emodb_12b02Ea.wav",
+        "emotion": "happy",
+        "language": "german",
+        "source": "EMO-DB"
+    },
+    {
+        "file": "emodb_13b09Ab.wav",
+        "emotion": "sad",
+        "language": "german",
+        "source": "EMO-DB"
+    },
+    {
+        "file": "emodb_13a01Ec.wav",
+        "emotion": "happy",
+        "language": "german",
+        "source": "EMO-DB"
+    },
+    {
+        "file": "emodb_12b09Ac.wav",
+        "emotion": "sad",
+        "language": "german",
+        "source": "EMO-DB"
+    },
+    {
+        "file": "emodb_16a07Fb.wav",
+        "emotion": "angry",
+        "language": "german",
+        "source": "EMO-DB"
+    },
+    {
+        "file": "emodb_10a05Aa.wav",
+        "emotion": "sad",
+        "language": "german",
+        "source": "EMO-DB"
+    },
+    {
+        "file": "emodb_11b03Fc.wav",
+        "emotion": "angry",
+        "language": "german",
+        "source": "EMO-DB"
+    },
+    {
+        "file": "emodb_11a07Ac.wav",
+        "emotion": "sad",
+        "language": "german",
+        "source": "EMO-DB"
+    },
+    {
+        "file": "emodb_10b01Fa.wav",
+        "emotion": "angry",
+        "language": "german",
+        "source": "EMO-DB"
+    },
+    {
+        "file": "emodb_11b01Fc.wav",
+        "emotion": "angry",
+        "language": "german",
+        "source": "EMO-DB"
+    },
+    {
+        "file": "emodb_08b10Fd.wav",
+        "emotion": "angry",
+        "language": "german",
+        "source": "EMO-DB"
+    },
+    {
+        "file": "emodb_09a02Eb.wav",
+        "emotion": "happy",
+        "language": "german",
+        "source": "EMO-DB"
+    },
+    {
+        "file": "emodb_10a07Aa.wav",
+        "emotion": "sad",
+        "language": "german",
+        "source": "EMO-DB"
+    },
+    {
+        "file": "emodb_08a07Na.wav",
+        "emotion": "neutral",
+        "language": "german",
+        "source": "EMO-DB"
+    },
+    {
+        "file": "emodb_09a07Na.wav",
+        "emotion": "neutral",
+        "language": "german",
+        "source": "EMO-DB"
+    },
+    {
+        "file": "emodb_10a02Fa.wav",
+        "emotion": "angry",
+        "language": "german",
+        "source": "EMO-DB"
+    },
+    {
+        "file": "emodb_15a01Nb.wav",
+        "emotion": "neutral",
+        "language": "german",
+        "source": "EMO-DB"
+    },
+    {
+        "file": "emodb_16b02Fd.wav",
+        "emotion": "angry",
+        "language": "german",
+        "source": "EMO-DB"
+    },
+    {
+        "file": "emodb_13a01Ea.wav",
+        "emotion": "happy",
+        "language": "german",
+        "source": "EMO-DB"
+    },
+    {
+        "file": "emodb_14b02Na.wav",
+        "emotion": "neutral",
+        "language": "german",
+        "source": "EMO-DB"
+    },
+    {
+        "file": "emodb_08b09Fd.wav",
+        "emotion": "angry",
+        "language": "german",
+        "source": "EMO-DB"
+    },
+    {
+        "file": "emodb_03a07Nc.wav",
+        "emotion": "neutral",
+        "language": "german",
+        "source": "EMO-DB"
+    },
+    {
+        "file": "emodb_15b09Fa.wav",
+        "emotion": "angry",
+        "language": "german",
+        "source": "EMO-DB"
+    },
+    {
+        "file": "emodb_16a07Fa.wav",
+        "emotion": "angry",
+        "language": "german",
+        "source": "EMO-DB"
+    },
+    {
+        "file": "emodb_09b01Ea.wav",
+        "emotion": "happy",
+        "language": "german",
+        "source": "EMO-DB"
+    },
+    {
+        "file": "emodb_16a05Fc.wav",
+        "emotion": "angry",
+        "language": "german",
+        "source": "EMO-DB"
+    },
+    {
+        "file": "emodb_09a05Nb.wav",
+        "emotion": "neutral",
+        "language": "german",
+        "source": "EMO-DB"
+    },
+    {
+        "file": "emodb_08a05Nb.wav",
+        "emotion": "neutral",
+        "language": "german",
+        "source": "EMO-DB"
+    },
+    {
+        "file": "emodb_10b01Aa.wav",
+        "emotion": "sad",
+        "language": "german",
+        "source": "EMO-DB"
+    },
+    {
+        "file": "emodb_15b10Ac.wav",
+        "emotion": "sad",
+        "language": "german",
+        "source": "EMO-DB"
+    },
+    {
+        "file": "emodb_13b03Ed.wav",
+        "emotion": "happy",
+        "language": "german",
+        "source": "EMO-DB"
+    },
+    {
+        "file": "emodb_08b01Na.wav",
+        "emotion": "neutral",
+        "language": "german",
+        "source": "EMO-DB"
+    },
+    {
+        "file": "emodb_09b01Na.wav",
+        "emotion": "neutral",
+        "language": "german",
+        "source": "EMO-DB"
+    },
+    {
+        "file": "emodb_03b01Nb.wav",
+        "emotion": "neutral",
+        "language": "german",
+        "source": "EMO-DB"
+    },
+    {
+        "file": "emodb_13b09Fc.wav",
+        "emotion": "angry",
+        "language": "german",
+        "source": "EMO-DB"
+    },
+    {
+        "file": "emodb_13b09Fb.wav",
+        "emotion": "angry",
+        "language": "german",
+        "source": "EMO-DB"
+    },
+    {
+        "file": "emodb_14b09Ac.wav",
+        "emotion": "sad",
+        "language": "german",
+        "source": "EMO-DB"
+    },
+    {
+        "file": "emodb_13b02Nb.wav",
+        "emotion": "neutral",
+        "language": "german",
+        "source": "EMO-DB"
+    },
+    {
+        "file": "emodb_15b09Ac.wav",
+        "emotion": "sad",
+        "language": "german",
+        "source": "EMO-DB"
+    },
+    {
+        "file": "emodb_10a02Ab.wav",
+        "emotion": "sad",
+        "language": "german",
+        "source": "EMO-DB"
+    },
+    {
+        "file": "emodb_12a05Nd.wav",
+        "emotion": "neutral",
+        "language": "german",
+        "source": "EMO-DB"
+    },
+    {
+        "file": "emodb_16b01Fa.wav",
+        "emotion": "angry",
+        "language": "german",
+        "source": "EMO-DB"
+    },
+    {
+        "file": "emodb_09b03Nb.wav",
+        "emotion": "neutral",
+        "language": "german",
+        "source": "EMO-DB"
+    },
+    {
+        "file": "emodb_08b03Nb.wav",
+        "emotion": "neutral",
+        "language": "german",
+        "source": "EMO-DB"
+    },
+    {
+        "file": "emodb_16b03Fa.wav",
+        "emotion": "angry",
+        "language": "german",
+        "source": "EMO-DB"
+    },
+    {
+        "file": "emodb_11b01Ab.wav",
+        "emotion": "sad",
+        "language": "german",
+        "source": "EMO-DB"
+    },
+    {
+        "file": "emodb_11a05Fb.wav",
+        "emotion": "angry",
+        "language": "german",
+        "source": "EMO-DB"
+    },
+    {
+        "file": "emodb_13b10Fa.wav",
+        "emotion": "angry",
+        "language": "german",
+        "source": "EMO-DB"
+    },
+    {
+        "file": "emodb_11b02Fd.wav",
+        "emotion": "angry",
+        "language": "german",
+        "source": "EMO-DB"
+    },
+    {
+        "file": "emodb_13a01Nb.wav",
+        "emotion": "neutral",
+        "language": "german",
+        "source": "EMO-DB"
+    },
+    {
+        "file": "emodb_12a01Nb.wav",
+        "emotion": "neutral",
+        "language": "german",
+        "source": "EMO-DB"
+    },
+    {
+        "file": "emodb_15a04Nc.wav",
+        "emotion": "neutral",
+        "language": "german",
+        "source": "EMO-DB"
+    },
+    {
+        "file": "emodb_03a02Nc.wav",
+        "emotion": "neutral",
+        "language": "german",
+        "source": "EMO-DB"
+    },
+    {
+        "file": "emodb_03b03Nb.wav",
+        "emotion": "neutral",
+        "language": "german",
+        "source": "EMO-DB"
+    },
+    {
+        "file": "emodb_15a01Ea.wav",
+        "emotion": "happy",
+        "language": "german",
+        "source": "EMO-DB"
+    },
+    {
+        "file": "emodb_14a01Ea.wav",
+        "emotion": "happy",
+        "language": "german",
+        "source": "EMO-DB"
+    },
+    {
+        "file": "emodb_12b02Na.wav",
+        "emotion": "neutral",
+        "language": "german",
+        "source": "EMO-DB"
+    },
+    {
+        "file": "emodb_09a07Eb.wav",
+        "emotion": "happy",
+        "language": "german",
+        "source": "EMO-DB"
+    },
+    {
+        "file": "emodb_11a05Fc.wav",
+        "emotion": "angry",
+        "language": "german",
+        "source": "EMO-DB"
+    },
+    {
+        "file": "emodb_16a05Ab.wav",
+        "emotion": "sad",
+        "language": "german",
+        "source": "EMO-DB"
+    },
+    {
+        "file": "emodb_08a02Na.wav",
+        "emotion": "neutral",
+        "language": "german",
+        "source": "EMO-DB"
+    },
+    {
+        "file": "emodb_16b10Eb.wav",
+        "emotion": "happy",
+        "language": "german",
+        "source": "EMO-DB"
+    },
+    {
+        "file": "emodb_16b03Fd.wav",
+        "emotion": "angry",
+        "language": "german",
+        "source": "EMO-DB"
+    },
+    {
+        "file": "emodb_09a05Ed.wav",
+        "emotion": "happy",
+        "language": "german",
+        "source": "EMO-DB"
+    },
+    {
+        "file": "emodb_13a07Na.wav",
+        "emotion": "neutral",
+        "language": "german",
+        "source": "EMO-DB"
+    },
+    {
+        "file": "emodb_11a04Ac.wav",
+        "emotion": "sad",
+        "language": "german",
+        "source": "EMO-DB"
+    },
+    {
+        "file": "emodb_08a04Nc.wav",
+        "emotion": "neutral",
+        "language": "german",
+        "source": "EMO-DB"
+    },
+    {
+        "file": "emodb_11b09Na.wav",
+        "emotion": "neutral",
+        "language": "german",
+        "source": "EMO-DB"
+    },
+    {
+        "file": "emodb_03b10Ab.wav",
+        "emotion": "sad",
+        "language": "german",
+        "source": "EMO-DB"
+    },
+    {
+        "file": "emodb_16b02Aa.wav",
+        "emotion": "sad",
+        "language": "german",
+        "source": "EMO-DB"
+    },
+    {
+        "file": "emodb_09a04Nb.wav",
+        "emotion": "neutral",
+        "language": "german",
+        "source": "EMO-DB"
+    },
+    {
+        "file": "emodb_16b09Eb.wav",
+        "emotion": "happy",
+        "language": "german",
+        "source": "EMO-DB"
+    },
+    {
+        "file": "emodb_09a01Ea.wav",
+        "emotion": "happy",
+        "language": "german",
+        "source": "EMO-DB"
+    },
+    {
+        "file": "emodb_13a05Nb.wav",
+        "emotion": "neutral",
+        "language": "german",
+        "source": "EMO-DB"
+    },
+    {
+        "file": "emodb_12a02Ec.wav",
+        "emotion": "happy",
+        "language": "german",
+        "source": "EMO-DB"
+    },
+    {
+        "file": "emodb_13a02Ec.wav",
+        "emotion": "happy",
+        "language": "german",
+        "source": "EMO-DB"
+    },
+    {
+        "file": "emodb_14a07Eb.wav",
+        "emotion": "happy",
+        "language": "german",
+        "source": "EMO-DB"
+    },
+    {
+        "file": "emodb_15a07Eb.wav",
+        "emotion": "happy",
+        "language": "german",
+        "source": "EMO-DB"
+    },
+    {
+        "file": "emodb_14b10Ad.wav",
+        "emotion": "sad",
+        "language": "german",
+        "source": "EMO-DB"
+    },
+    {
+        "file": "emodb_15a02Na.wav",
+        "emotion": "neutral",
+        "language": "german",
+        "source": "EMO-DB"
+    },
+    {
+        "file": "emodb_09b10Aa.wav",
+        "emotion": "sad",
+        "language": "german",
+        "source": "EMO-DB"
+    },
+    {
+        "file": "emodb_08b10Aa.wav",
+        "emotion": "sad",
+        "language": "german",
+        "source": "EMO-DB"
+    },
+    {
+        "file": "emodb_15a05Eb.wav",
+        "emotion": "happy",
+        "language": "german",
+        "source": "EMO-DB"
+    },
+    {
+        "file": "emodb_03a04Nc.wav",
+        "emotion": "neutral",
+        "language": "german",
+        "source": "EMO-DB"
+    },
+    {
+        "file": "emodb_14a02Nc.wav",
+        "emotion": "neutral",
+        "language": "german",
+        "source": "EMO-DB"
+    },
+    {
+        "file": "emodb_13b01Ec.wav",
+        "emotion": "happy",
+        "language": "german",
+        "source": "EMO-DB"
+    },
+    {
+        "file": "emodb_15b01Na.wav",
+        "emotion": "neutral",
+        "language": "german",
+        "source": "EMO-DB"
+    },
+    {
+        "file": "emodb_14b01Na.wav",
+        "emotion": "neutral",
+        "language": "german",
+        "source": "EMO-DB"
+    },
+    {
+        "file": "emodb_11b10Nc.wav",
+        "emotion": "neutral",
+        "language": "german",
+        "source": "EMO-DB"
+    },
+    {
+        "file": "emodb_08b09Ab.wav",
+        "emotion": "sad",
+        "language": "german",
+        "source": "EMO-DB"
+    },
+    {
+        "file": "emodb_16a04Fa.wav",
+        "emotion": "angry",
+        "language": "german",
+        "source": "EMO-DB"
+    },
+    {
+        "file": "emodb_15b03Nb.wav",
+        "emotion": "neutral",
+        "language": "german",
+        "source": "EMO-DB"
+    },
+    {
+        "file": "emodb_15a05Fb.wav",
+        "emotion": "angry",
+        "language": "german",
+        "source": "EMO-DB"
+    },
+    {
+        "file": "emodb_14a05Fb.wav",
+        "emotion": "angry",
+        "language": "german",
+        "source": "EMO-DB"
+    },
+    {
+        "file": "emodb_13b01Fc.wav",
+        "emotion": "angry",
+        "language": "german",
+        "source": "EMO-DB"
+    },
+    {
+        "file": "emodb_13a02Fa.wav",
+        "emotion": "angry",
+        "language": "german",
+        "source": "EMO-DB"
+    },
+    {
+        "file": "emodb_03b10Nc.wav",
+        "emotion": "neutral",
+        "language": "german",
+        "source": "EMO-DB"
+    },
+    {
+        "file": "emodb_16a04Ea.wav",
+        "emotion": "happy",
+        "language": "german",
+        "source": "EMO-DB"
+    },
+    {
+        "file": "emodb_12b02Ad.wav",
+        "emotion": "sad",
+        "language": "german",
+        "source": "EMO-DB"
+    },
+    {
+        "file": "emodb_10a04Nb.wav",
+        "emotion": "neutral",
+        "language": "german",
+        "source": "EMO-DB"
+    },
+    {
+        "file": "emodb_16a01Nc.wav",
+        "emotion": "neutral",
+        "language": "german",
+        "source": "EMO-DB"
+    },
+    {
+        "file": "emodb_08a07Fd.wav",
+        "emotion": "angry",
+        "language": "german",
+        "source": "EMO-DB"
+    },
+    {
+        "file": "emodb_14b01Ac.wav",
+        "emotion": "sad",
+        "language": "german",
+        "source": "EMO-DB"
+    },
+    {
+        "file": "emodb_03b09Nc.wav",
+        "emotion": "neutral",
+        "language": "german",
+        "source": "EMO-DB"
+    },
+    {
+        "file": "emodb_03a01Fa.wav",
+        "emotion": "angry",
+        "language": "german",
+        "source": "EMO-DB"
+    },
+    {
+        "file": "emodb_15a07Fa.wav",
+        "emotion": "angry",
+        "language": "german",
+        "source": "EMO-DB"
+    },
+    {
+        "file": "emodb_12a05Ab.wav",
+        "emotion": "sad",
+        "language": "german",
+        "source": "EMO-DB"
+    },
+    {
+        "file": "emodb_15b03Aa.wav",
+        "emotion": "sad",
+        "language": "german",
+        "source": "EMO-DB"
+    },
+    {
+        "file": "emodb_14a05Fa.wav",
+        "emotion": "angry",
+        "language": "german",
+        "source": "EMO-DB"
+    },
+    {
+        "file": "emodb_15a02Ac.wav",
+        "emotion": "sad",
+        "language": "german",
+        "source": "EMO-DB"
+    },
+    {
+        "file": "emodb_16b10Fb.wav",
+        "emotion": "angry",
+        "language": "german",
+        "source": "EMO-DB"
+    },
+    {
+        "file": "emodb_08b10Nc.wav",
+        "emotion": "neutral",
+        "language": "german",
+        "source": "EMO-DB"
+    },
+    {
+        "file": "emodb_08b09Nb.wav",
+        "emotion": "neutral",
+        "language": "german",
+        "source": "EMO-DB"
+    },
+    {
+        "file": "emodb_03b10Na.wav",
+        "emotion": "neutral",
+        "language": "german",
+        "source": "EMO-DB"
+    },
+    {
+        "file": "emodb_09a01Fa.wav",
+        "emotion": "angry",
+        "language": "german",
+        "source": "EMO-DB"
+    },
+    {
+        "file": "emodb_16b09Fb.wav",
+        "emotion": "angry",
+        "language": "german",
+        "source": "EMO-DB"
+    },
+    {
+        "file": "emodb_15a07Fb.wav",
+        "emotion": "angry",
+        "language": "german",
+        "source": "EMO-DB"
+    },
+    {
+        "file": "emodb_13a05Aa.wav",
+        "emotion": "sad",
+        "language": "german",
+        "source": "EMO-DB"
+    },
+    {
+        "file": "emodb_08a05Fe.wav",
+        "emotion": "angry",
+        "language": "german",
+        "source": "EMO-DB"
+    },
+    {
+        "file": "emodb_14a02Ab.wav",
+        "emotion": "sad",
+        "language": "german",
+        "source": "EMO-DB"
+    },
+    {
+        "file": "emodb_12a07Ac.wav",
+        "emotion": "sad",
+        "language": "german",
+        "source": "EMO-DB"
+    },
+    {
+        "file": "emodb_16b03Ea.wav",
+        "emotion": "happy",
+        "language": "german",
+        "source": "EMO-DB"
+    },
+    {
+        "file": "emodb_15b10Nc.wav",
+        "emotion": "neutral",
+        "language": "german",
+        "source": "EMO-DB"
+    },
+    {
+        "file": "emodb_08a02Ac.wav",
+        "emotion": "sad",
+        "language": "german",
+        "source": "EMO-DB"
+    },
+    {
+        "file": "emodb_16a02Ea.wav",
+        "emotion": "happy",
+        "language": "german",
+        "source": "EMO-DB"
+    },
+    {
+        "file": "emodb_08b01Aa.wav",
+        "emotion": "sad",
+        "language": "german",
+        "source": "EMO-DB"
+    },
+    {
+        "file": "emodb_11a02Nc.wav",
+        "emotion": "neutral",
+        "language": "german",
+        "source": "EMO-DB"
+    },
+    {
+        "file": "emodb_16a07Nb.wav",
+        "emotion": "neutral",
+        "language": "german",
+        "source": "EMO-DB"
+    },
+    {
+        "file": "emodb_15b09Nb.wav",
+        "emotion": "neutral",
+        "language": "german",
+        "source": "EMO-DB"
+    },
+    {
+        "file": "emodb_14b02Fb.wav",
+        "emotion": "angry",
+        "language": "german",
+        "source": "EMO-DB"
+    },
+    {
+        "file": "emodb_03a05Fc.wav",
+        "emotion": "angry",
+        "language": "german",
+        "source": "EMO-DB"
+    },
+    {
+        "file": "emodb_14a04Aa.wav",
+        "emotion": "sad",
+        "language": "german",
+        "source": "EMO-DB"
+    },
+    {
+        "file": "emodb_08b02Ff.wav",
+        "emotion": "angry",
+        "language": "german",
+        "source": "EMO-DB"
+    },
+    {
+        "file": "emodb_08a01Fd.wav",
+        "emotion": "angry",
+        "language": "german",
+        "source": "EMO-DB"
+    },
+    {
+        "file": "emodb_03a07Fa.wav",
+        "emotion": "angry",
+        "language": "german",
+        "source": "EMO-DB"
+    },
+    {
+        "file": "emodb_11a04Nd.wav",
+        "emotion": "neutral",
+        "language": "german",
+        "source": "EMO-DB"
+    },
+    {
+        "file": "emodb_11b03Nb.wav",
+        "emotion": "neutral",
+        "language": "german",
+        "source": "EMO-DB"
+    },
+    {
+        "file": "emodb_16b01Eb.wav",
+        "emotion": "happy",
+        "language": "german",
+        "source": "EMO-DB"
+    },
+    {
+        "file": "emodb_08a02Ab.wav",
+        "emotion": "sad",
+        "language": "german",
+        "source": "EMO-DB"
+    },
+    {
+        "file": "emodb_15b10Nb.wav",
+        "emotion": "neutral",
+        "language": "german",
+        "source": "EMO-DB"
+    },
+    {
+        "file": "emodb_14b10Nb.wav",
+        "emotion": "neutral",
+        "language": "german",
+        "source": "EMO-DB"
+    },
+    {
+        "file": "emodb_11b10Ae.wav",
+        "emotion": "sad",
+        "language": "german",
+        "source": "EMO-DB"
+    },
+    {
+        "file": "emodb_13b03Fd.wav",
+        "emotion": "angry",
+        "language": "german",
+        "source": "EMO-DB"
+    },
+    {
+        "file": "emodb_09b09Nd.wav",
+        "emotion": "neutral",
+        "language": "german",
+        "source": "EMO-DB"
+    },
+    {
+        "file": "emodb_13b09Ec.wav",
+        "emotion": "happy",
+        "language": "german",
+        "source": "EMO-DB"
+    },
+    {
+        "file": "emodb_15a04Ac.wav",
+        "emotion": "sad",
+        "language": "german",
+        "source": "EMO-DB"
+    },
+    {
+        "file": "emodb_10b09Ad.wav",
+        "emotion": "sad",
+        "language": "german",
+        "source": "EMO-DB"
+    },
+    {
+        "file": "emodb_11b09Ad.wav",
+        "emotion": "sad",
+        "language": "german",
+        "source": "EMO-DB"
+    },
+    {
+        "file": "emodb_13a01Ac.wav",
+        "emotion": "sad",
+        "language": "german",
+        "source": "EMO-DB"
+    },
+    {
+        "file": "emodb_15a04Ab.wav",
+        "emotion": "sad",
+        "language": "german",
+        "source": "EMO-DB"
+    },
+    {
+        "file": "emodb_13a04Fc.wav",
+        "emotion": "angry",
+        "language": "german",
+        "source": "EMO-DB"
+    },
+    {
+        "file": "emodb_15a01Fb.wav",
+        "emotion": "angry",
+        "language": "german",
+        "source": "EMO-DB"
+    },
+    {
+        "file": "emodb_03a07Fb.wav",
+        "emotion": "angry",
+        "language": "german",
+        "source": "EMO-DB"
+    },
+    {
+        "file": "emodb_13b10Ec.wav",
+        "emotion": "happy",
+        "language": "german",
+        "source": "EMO-DB"
+    },
+    {
+        "file": "emodb_11b10Ad.wav",
+        "emotion": "sad",
+        "language": "german",
+        "source": "EMO-DB"
+    },
+    {
+        "file": "emodb_14a07Fd.wav",
+        "emotion": "angry",
+        "language": "german",
+        "source": "EMO-DB"
+    },
+    {
+        "file": "emodb_10a02Na.wav",
+        "emotion": "neutral",
+        "language": "german",
+        "source": "EMO-DB"
+    },
+    {
+        "file": "emodb_16a02Ec.wav",
+        "emotion": "happy",
+        "language": "german",
+        "source": "EMO-DB"
+    },
+    {
+        "file": "emodb_09b10Nd.wav",
+        "emotion": "neutral",
+        "language": "german",
+        "source": "EMO-DB"
+    },
+    {
+        "file": "emodb_11b01Nc.wav",
+        "emotion": "neutral",
+        "language": "german",
+        "source": "EMO-DB"
+    },
+    {
+        "file": "emodb_14b03Ad.wav",
+        "emotion": "sad",
+        "language": "german",
+        "source": "EMO-DB"
+    },
+    {
+        "file": "emodb_03a04Ad.wav",
+        "emotion": "sad",
+        "language": "german",
+        "source": "EMO-DB"
+    },
+    {
+        "file": "emodb_13b10Nc.wav",
+        "emotion": "neutral",
+        "language": "german",
+        "source": "EMO-DB"
+    },
+    {
+        "file": "emodb_14a01Aa.wav",
+        "emotion": "sad",
+        "language": "german",
+        "source": "EMO-DB"
+    },
+    {
+        "file": "emodb_12b02Fb.wav",
+        "emotion": "angry",
+        "language": "german",
+        "source": "EMO-DB"
+    },
+    {
+        "file": "emodb_13b02Fb.wav",
+        "emotion": "angry",
+        "language": "german",
+        "source": "EMO-DB"
+    },
+    {
+        "file": "emodb_11a01Nd.wav",
+        "emotion": "neutral",
+        "language": "german",
+        "source": "EMO-DB"
+    },
+    {
+        "file": "emodb_09a04Fd.wav",
+        "emotion": "angry",
+        "language": "german",
+        "source": "EMO-DB"
+    },
+    {
+        "file": "emodb_14b09Ea.wav",
+        "emotion": "happy",
+        "language": "german",
+        "source": "EMO-DB"
+    },
+    {
+        "file": "emodb_16a07Ea.wav",
+        "emotion": "happy",
+        "language": "german",
+        "source": "EMO-DB"
+    },
+    {
+        "file": "emodb_11a05Na.wav",
+        "emotion": "neutral",
+        "language": "german",
+        "source": "EMO-DB"
+    },
+    {
+        "file": "emodb_16b03Nb.wav",
+        "emotion": "neutral",
+        "language": "german",
+        "source": "EMO-DB"
+    },
+    {
+        "file": "emodb_11b01Eb.wav",
+        "emotion": "happy",
+        "language": "german",
+        "source": "EMO-DB"
+    },
+    {
+        "file": "emodb_16a02Nb.wav",
+        "emotion": "neutral",
+        "language": "german",
+        "source": "EMO-DB"
+    },
+    {
+        "file": "emodb_09b03Fa.wav",
+        "emotion": "angry",
+        "language": "german",
+        "source": "EMO-DB"
+    },
+    {
+        "file": "emodb_14a02Fd.wav",
+        "emotion": "angry",
+        "language": "german",
+        "source": "EMO-DB"
+    },
+    {
+        "file": "emodb_03a04Fd.wav",
+        "emotion": "angry",
+        "language": "german",
+        "source": "EMO-DB"
+    },
+    {
+        "file": "emodb_16a05Ea.wav",
+        "emotion": "happy",
+        "language": "german",
+        "source": "EMO-DB"
+    },
+    {
+        "file": "emodb_14b10Eb.wav",
+        "emotion": "happy",
+        "language": "german",
+        "source": "EMO-DB"
+    },
+    {
+        "file": "emodb_13a04Ac.wav",
+        "emotion": "sad",
+        "language": "german",
+        "source": "EMO-DB"
+    },
+    {
+        "file": "emodb_13b09Na.wav",
+        "emotion": "neutral",
+        "language": "german",
+        "source": "EMO-DB"
+    },
+    {
+        "file": "emodb_15b02Aa.wav",
+        "emotion": "sad",
+        "language": "german",
+        "source": "EMO-DB"
+    },
+    {
+        "file": "emodb_08a04Ff.wav",
+        "emotion": "angry",
+        "language": "german",
+        "source": "EMO-DB"
+    },
+    {
+        "file": "emodb_14b02Aa.wav",
+        "emotion": "sad",
+        "language": "german",
+        "source": "EMO-DB"
+    },
+    {
+        "file": "emodb_11b09Fd.wav",
+        "emotion": "angry",
+        "language": "german",
+        "source": "EMO-DB"
+    },
+    {
+        "file": "emodb_03a02Fc.wav",
+        "emotion": "angry",
+        "language": "german",
+        "source": "EMO-DB"
+    },
+    {
+        "file": "emodb_03a05Aa.wav",
+        "emotion": "sad",
+        "language": "german",
+        "source": "EMO-DB"
+    },
+    {
+        "file": "emodb_12a01Fb.wav",
+        "emotion": "angry",
+        "language": "german",
+        "source": "EMO-DB"
+    },
+    {
+        "file": "emodb_03b01Fa.wav",
+        "emotion": "angry",
+        "language": "german",
+        "source": "EMO-DB"
+    },
+    {
+        "file": "emodb_14a01Ac.wav",
+        "emotion": "sad",
+        "language": "german",
+        "source": "EMO-DB"
+    },
+    {
+        "file": "emodb_11a02Ec.wav",
+        "emotion": "happy",
+        "language": "german",
+        "source": "EMO-DB"
+    },
+    {
+        "file": "emodb_13a02Ad.wav",
+        "emotion": "sad",
+        "language": "german",
+        "source": "EMO-DB"
+    },
+    {
+        "file": "emodb_10b01Ea.wav",
+        "emotion": "happy",
+        "language": "german",
+        "source": "EMO-DB"
+    },
+    {
+        "file": "emodb_13a07Fd.wav",
+        "emotion": "angry",
+        "language": "german",
+        "source": "EMO-DB"
+    },
+    {
+        "file": "emodb_09b03Fd.wav",
+        "emotion": "angry",
+        "language": "german",
+        "source": "EMO-DB"
+    },
+    {
+        "file": "emodb_14a05Ac.wav",
+        "emotion": "sad",
+        "language": "german",
+        "source": "EMO-DB"
+    },
+    {
+        "file": "emodb_13b01Ab.wav",
+        "emotion": "sad",
+        "language": "german",
+        "source": "EMO-DB"
+    },
+    {
+        "file": "emodb_14a07Aa.wav",
+        "emotion": "sad",
+        "language": "german",
+        "source": "EMO-DB"
+    },
+    {
+        "file": "emodb_14b01Fc.wav",
+        "emotion": "angry",
+        "language": "german",
+        "source": "EMO-DB"
+    },
+    {
+        "file": "emodb_08a01Ab.wav",
+        "emotion": "sad",
+        "language": "german",
+        "source": "EMO-DB"
+    },
+    {
+        "file": "emodb_10a01Nb.wav",
+        "emotion": "neutral",
+        "language": "german",
+        "source": "EMO-DB"
+    },
+    {
+        "file": "emodb_16a04Nc.wav",
+        "emotion": "neutral",
+        "language": "german",
+        "source": "EMO-DB"
+    },
+    {
+        "file": "emodb_16b02Eb.wav",
+        "emotion": "happy",
+        "language": "german",
+        "source": "EMO-DB"
+    },
+    {
+        "file": "emodb_11b02Na.wav",
+        "emotion": "neutral",
+        "language": "german",
+        "source": "EMO-DB"
+    },
+    {
+        "file": "emodb_10b02Na.wav",
+        "emotion": "neutral",
+        "language": "german",
+        "source": "EMO-DB"
+    },
+    {
+        "file": "emodb_08a02Fe.wav",
+        "emotion": "angry",
+        "language": "german",
+        "source": "EMO-DB"
+    },
+    {
+        "file": "emodb_08b03Fe.wav",
+        "emotion": "angry",
+        "language": "german",
+        "source": "EMO-DB"
+    },
+    {
+        "file": "emodb_16b10Aa.wav",
+        "emotion": "sad",
+        "language": "german",
+        "source": "EMO-DB"
+    },
+    {
+        "file": "emodb_08b01Fe.wav",
+        "emotion": "angry",
+        "language": "german",
+        "source": "EMO-DB"
+    },
+    {
+        "file": "emodb_12a02Ac.wav",
+        "emotion": "sad",
+        "language": "german",
+        "source": "EMO-DB"
+    },
+    {
+        "file": "emodb_13b03Ac.wav",
+        "emotion": "sad",
+        "language": "german",
+        "source": "EMO-DB"
+    },
+    {
+        "file": "emodb_16b09Ab.wav",
+        "emotion": "sad",
+        "language": "german",
+        "source": "EMO-DB"
+    },
+    {
+        "file": "emodb_16a01Ec.wav",
+        "emotion": "happy",
+        "language": "german",
+        "source": "EMO-DB"
+    },
+    {
+        "file": "emodb_15a04Fd.wav",
+        "emotion": "angry",
+        "language": "german",
+        "source": "EMO-DB"
+    },
+    {
+        "file": "emodb_03b10Ec.wav",
+        "emotion": "happy",
+        "language": "german",
+        "source": "EMO-DB"
+    },
+    {
+        "file": "emodb_13a01Fd.wav",
+        "emotion": "angry",
+        "language": "german",
+        "source": "EMO-DB"
+    },
+    {
+        "file": "emodb_09b09Ea.wav",
+        "emotion": "happy",
+        "language": "german",
+        "source": "EMO-DB"
+    },
+    {
+        "file": "emodb_14b01Fa.wav",
+        "emotion": "angry",
+        "language": "german",
+        "source": "EMO-DB"
+    },
+    {
+        "file": "emodb_10b10Fc.wav",
+        "emotion": "angry",
+        "language": "german",
+        "source": "EMO-DB"
+    },
+    {
+        "file": "emodb_15a07Ac.wav",
+        "emotion": "sad",
+        "language": "german",
+        "source": "EMO-DB"
+    },
+    {
+        "file": "emodb_08b01Fd.wav",
+        "emotion": "angry",
+        "language": "german",
+        "source": "EMO-DB"
+    },
+    {
+        "file": "emodb_03b02Aa.wav",
+        "emotion": "sad",
+        "language": "german",
+        "source": "EMO-DB"
+    },
+    {
+        "file": "emodb_14a05Aa.wav",
+        "emotion": "sad",
+        "language": "german",
+        "source": "EMO-DB"
+    }
+]

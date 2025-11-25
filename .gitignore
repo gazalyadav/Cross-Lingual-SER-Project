@@ -1,0 +1,17 @@
+# ignore model weights
+models/
+*.pt
+
+# ignore raw audio
+data/raw/
+
+# ignore processed audio (optional)
+data/processed/audio/
+
+# python cache
+__pycache__/
+*.pyc
+
+# OS files
+.DS_Store
+
